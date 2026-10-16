@@ -1,0 +1,64 @@
+@import './base.css';
+@import './country.css';
+
+#app {
+    /*max-width: 1280px;*/
+    margin: 0 auto;
+    /*padding: 2rem;*/
+    font-weight: normal;
+}
+
+
+/*vant UI*/
+/*.van-radio-group .van-radio {*/
+/*    margin-bottom: 24px;*/
+/*}*/
+
+/*.van-radio-group .van-radio:last-child {*/
+/*    margin-bottom: 0;*/
+/*}*/
+
+/*.van-cell {*/
+/*    --van-cell-horizontal-padding: 0;*/
+/*}*/
+
+/*.app-input .van-field__body {*/
+/*    border: 1px solid rgba(29, 32, 35, 0.15);*/
+/*    border-radius: 12px;*/
+/*}*/
+
+/*.app-input .van-field__body .van-field__control {*/
+/*    height: 42px;*/
+/*    padding: 0 12px;*/
+/*}*/
+
+/*.van-cell:after {*/
+/*    display: none;*/
+/*}*/
+
+/*!*下拉菜单调整*!*/
+/*.van-field__right-icon {*/
+/*    height: 20px;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    margin: initial !important;*/
+/*    padding-right: 20px;*/
+/*}*/
+
+/*上传调整*/
+.van-field__control--custom {
+    display: block !important;
+}
+
+.app-uploader{
+    width: 100%;
+}
+.app-uploader .van-uploader__wrapper {
+    display: block !important;
+}
+
+/*输入框*/
+.ant-form-item{
+    margin-bottom: 6px;
+}

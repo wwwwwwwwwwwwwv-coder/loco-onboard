@@ -1,0 +1,4324 @@
+{
+  "all": [
+    {
+      "currency_name": "UAE DIRHAM",
+      "currency_code": "AED",
+      "decimal_places": 2,
+      "numeric_code": "784"
+    },
+    {
+      "currency_name": "NEW AFGHANI",
+      "currency_code": "AFN",
+      "decimal_places": 2,
+      "numeric_code": "971"
+    },
+    {
+      "currency_name": "LEK",
+      "currency_code": "ALL",
+      "decimal_places": 2,
+      "numeric_code": "008"
+    },
+    {
+      "currency_name": "DRAM",
+      "currency_code": "AMD",
+      "decimal_places": 2,
+      "numeric_code": "051"
+    },
+    {
+      "currency_name": "NETH. ANT. GUILDER",
+      "currency_code": "ANG",
+      "decimal_places": 2,
+      "numeric_code": "532"
+    },
+    {
+      "currency_name": "AUSTRALIAN DOLLAR",
+      "currency_code": "AUD",
+      "decimal_places": 2,
+      "numeric_code": "036"
+    },
+    {
+      "currency_name": "GUILDER",
+      "currency_code": "AWG",
+      "decimal_places": 2,
+      "numeric_code": "533"
+    },
+    {
+      "currency_name": "AZERBAIJANIAN MANAT",
+      "currency_code": "AZN",
+      "decimal_places": 2,
+      "numeric_code": "944"
+    },
+    {
+      "currency_name": "CONVERTIBLE MARK",
+      "currency_code": "BAM",
+      "decimal_places": 2,
+      "numeric_code": "977"
+    },
+    {
+      "currency_name": "BARBADOS DOLLAR",
+      "currency_code": "BBD",
+      "decimal_places": 2,
+      "numeric_code": "052"
+    },
+    {
+      "currency_name": "TAKA",
+      "currency_code": "BDT",
+      "decimal_places": 2,
+      "numeric_code": "050"
+    },
+    {
+      "currency_name": "NEW BULGARIAN LEV",
+      "currency_code": "BGN",
+      "decimal_places": 2,
+      "numeric_code": "975"
+    },
+    {
+      "currency_name": "BAHRAINI DINAR",
+      "currency_code": "BHD",
+      "decimal_places": 2,
+      "numeric_code": "048"
+    },
+    {
+      "currency_name": "BURUNDI FRANC",
+      "currency_code": "BIF",
+      "decimal_places": 2,
+      "numeric_code": "108"
+    },
+    {
+      "currency_name": "BERMUDAN DOLLAR",
+      "currency_code": "BMD",
+      "decimal_places": 2,
+      "numeric_code": "060"
+    },
+    {
+      "currency_name": "BRUNEI DOLLAR",
+      "currency_code": "BND",
+      "decimal_places": 2,
+      "numeric_code": "096"
+    },
+    {
+      "currency_name": "BOLIVIAN",
+      "currency_code": "BOB",
+      "decimal_places": 2,
+      "numeric_code": "068"
+    },
+    {
+      "currency_name": "REAL",
+      "currency_code": "BRL",
+      "decimal_places": 2,
+      "numeric_code": "986"
+    },
+    {
+      "currency_name": "BAHAMIAN DOLLAR",
+      "currency_code": "BSD",
+      "decimal_places": 2,
+      "numeric_code": "044"
+    },
+    {
+      "currency_name": "BHUTANESE NGULTRUM",
+      "currency_code": "BTN",
+      "decimal_places": 2,
+      "numeric_code": "064"
+    },
+    {
+      "currency_name": "PULA",
+      "currency_code": "BWP",
+      "decimal_places": 2,
+      "numeric_code": "072"
+    },
+    {
+      "currency_name": "BELIZE DOLLAR",
+      "currency_code": "BZD",
+      "decimal_places": 2,
+      "numeric_code": "084"
+    },
+    {
+      "currency_name": "CANADIAN DOLLAR",
+      "currency_code": "CAD",
+      "decimal_places": 2,
+      "numeric_code": "124"
+    },
+    {
+      "currency_name": "CONGOLESE FRANC",
+      "currency_code": "CDF",
+      "decimal_places": 2,
+      "numeric_code": "976"
+    },
+    {
+      "currency_name": "SWISS FRANC",
+      "currency_code": "CHF",
+      "decimal_places": 2,
+      "numeric_code": "756"
+    },
+    {
+      "currency_name": "CHILEAN PESO",
+      "currency_code": "CLP",
+      "decimal_places": 2,
+      "numeric_code": "152"
+    },
+    {
+      "currency_name": "OFFSHORE RENMINBI",
+      "currency_code": "CNH",
+      "decimal_places": 2,
+      "numeric_code": "157"
+    },
+    {
+      "currency_name": "COLOMBIAN PESO",
+      "currency_code": "COP",
+      "decimal_places": 2,
+      "numeric_code": "170"
+    },
+    {
+      "currency_name": "COLON",
+      "currency_code": "CRC",
+      "decimal_places": 2,
+      "numeric_code": "188"
+    },
+    {
+      "currency_name": "ESCUDO",
+      "currency_code": "CVE",
+      "decimal_places": 2,
+      "numeric_code": "132"
+    },
+    {
+      "currency_name": "CZECH KORUNA",
+      "currency_code": "CZK",
+      "decimal_places": 2,
+      "numeric_code": "203"
+    },
+    {
+      "currency_name": "DJIBOUTI FRANC",
+      "currency_code": "DJF",
+      "decimal_places": 2,
+      "numeric_code": "262"
+    },
+    {
+      "currency_name": "DANISH KRONE",
+      "currency_code": "DKK",
+      "decimal_places": 2,
+      "numeric_code": "208"
+    },
+    {
+      "currency_name": "DOMINICAN PESO",
+      "currency_code": "DOP",
+      "decimal_places": 2,
+      "numeric_code": "214"
+    },
+    {
+      "currency_name": "EGYPTIAN POUND",
+      "currency_code": "EGP",
+      "decimal_places": 2,
+      "numeric_code": "818"
+    },
+    {
+      "currency_name": "ETHIOPIAN BIRR",
+      "currency_code": "ETB",
+      "decimal_places": 2,
+      "numeric_code": "230"
+    },
+    {
+      "currency_name": "EURO",
+      "currency_code": "EUR",
+      "decimal_places": 2,
+      "numeric_code": "978"
+    },
+    {
+      "currency_name": "FIJI DOLLAR",
+      "currency_code": "FJD",
+      "decimal_places": 2,
+      "numeric_code": "242"
+    },
+    {
+      "currency_name": "FALKLAND ISL POUND",
+      "currency_code": "FKP",
+      "decimal_places": 2,
+      "numeric_code": "238"
+    },
+    {
+      "currency_name": "BRITISH POUND STERLING",
+      "currency_code": "GBP",
+      "decimal_places": 2,
+      "numeric_code": "826"
+    },
+    {
+      "currency_name": "LARI",
+      "currency_code": "GEL",
+      "decimal_places": 2,
+      "numeric_code": "981"
+    },
+    {
+      "currency_name": "GHANA CEDI",
+      "currency_code": "GHS",
+      "decimal_places": 2,
+      "numeric_code": "936"
+    },
+    {
+      "currency_name": "GIBRALTAR POUND",
+      "currency_code": "GIP",
+      "decimal_places": 2,
+      "numeric_code": "292"
+    },
+    {
+      "currency_name": "DA LASI",
+      "currency_code": "GMD",
+      "decimal_places": 2,
+      "numeric_code": "270"
+    },
+    {
+      "currency_name": "GUINEA FRANC",
+      "currency_code": "GNF",
+      "decimal_places": 2,
+      "numeric_code": "324"
+    },
+    {
+      "currency_name": "QUETZAL",
+      "currency_code": "GTQ",
+      "decimal_places": 2,
+      "numeric_code": "320"
+    },
+    {
+      "currency_name": "GUYANA DOLLAR",
+      "currency_code": "GYD",
+      "decimal_places": 2,
+      "numeric_code": "328"
+    },
+    {
+      "currency_name": "HONG-KONG DOLLAR",
+      "currency_code": "HKD",
+      "decimal_places": 2,
+      "numeric_code": "344"
+    },
+    {
+      "currency_name": "LEMPIRA",
+      "currency_code": "HNL",
+      "decimal_places": 2,
+      "numeric_code": "340"
+    },
+    {
+      "currency_name": "GOURDE",
+      "currency_code": "HTG",
+      "decimal_places": 2,
+      "numeric_code": "332"
+    },
+    {
+      "currency_name": "FORINT",
+      "currency_code": "HUF",
+      "decimal_places": 2,
+      "numeric_code": "348"
+    },
+    {
+      "currency_name": "INDONESIAN RUPIAH",
+      "currency_code": "IDR",
+      "decimal_places": 2,
+      "numeric_code": "360"
+    },
+    {
+      "currency_name": "NEW SHEKEL",
+      "currency_code": "ILS",
+      "decimal_places": 2,
+      "numeric_code": "376"
+    },
+    {
+      "currency_name": "INDIAN RUPEE",
+      "currency_code": "INR",
+      "decimal_places": 2,
+      "numeric_code": "356"
+    },
+    {
+      "currency_name": "IRAQI DINAR",
+      "currency_code": "IQD",
+      "decimal_places": 2,
+      "numeric_code": "368"
+    },
+    {
+      "currency_name": "ICELAND KRONA",
+      "currency_code": "ISK",
+      "decimal_places": 2,
+      "numeric_code": "352"
+    },
+    {
+      "currency_name": "JAMAICAN DOLLAR",
+      "currency_code": "JMD",
+      "decimal_places": 2,
+      "numeric_code": "388"
+    },
+    {
+      "currency_name": "JORDANIAN DINAR",
+      "currency_code": "JOD",
+      "decimal_places": 2,
+      "numeric_code": "400"
+    },
+    {
+      "currency_name": "JAPANESE YEN",
+      "currency_code": "JPY",
+      "decimal_places": 2,
+      "numeric_code": "392"
+    },
+    {
+      "currency_name": "KENYAN SHILLING",
+      "currency_code": "KES",
+      "decimal_places": 2,
+      "numeric_code": "404"
+    },
+    {
+      "currency_name": "KYRGYZSTAN SOM",
+      "currency_code": "KGS",
+      "decimal_places": 2,
+      "numeric_code": "417"
+    },
+    {
+      "currency_name": "RIEL",
+      "currency_code": "KHR",
+      "decimal_places": 2,
+      "numeric_code": "116"
+    },
+    {
+      "currency_name": "COMOROS FRANC",
+      "currency_code": "KMF",
+      "decimal_places": 2,
+      "numeric_code": "174"
+    },
+    {
+      "currency_name": "S. KOREAN WON",
+      "currency_code": "KRW",
+      "decimal_places": 2,
+      "numeric_code": "410"
+    },
+    {
+      "currency_name": "KUWAITI DINAR",
+      "currency_code": "KWD",
+      "decimal_places": 2,
+      "numeric_code": "414"
+    },
+    {
+      "currency_name": "CAYMAN ISL DOLLAR",
+      "currency_code": "KYD",
+      "decimal_places": 2,
+      "numeric_code": "136"
+    },
+    {
+      "currency_name": "TENGE",
+      "currency_code": "KZT",
+      "decimal_places": 2,
+      "numeric_code": "398"
+    },
+    {
+      "currency_name": "KIP",
+      "currency_code": "LAK",
+      "decimal_places": 2,
+      "numeric_code": "418"
+    },
+    {
+      "currency_name": "LEBANESE POUND",
+      "currency_code": "LBP",
+      "decimal_places": 2,
+      "numeric_code": "422"
+    },
+    {
+      "currency_name": "SRI LANKA RUPEE",
+      "currency_code": "LKR",
+      "decimal_places": 2,
+      "numeric_code": "144"
+    },
+    {
+      "currency_name": "LIBERIA DOLLAR",
+      "currency_code": "LRD",
+      "decimal_places": 2,
+      "numeric_code": "430"
+    },
+    {
+      "currency_name": "LESOTHO LOTI",
+      "currency_code": "LSL",
+      "decimal_places": 2,
+      "numeric_code": "426"
+    },
+    {
+      "currency_name": "MOROCCAN DIRHAM",
+      "currency_code": "MAD",
+      "decimal_places": 2,
+      "numeric_code": "504"
+    },
+    {
+      "currency_name": "LEU",
+      "currency_code": "MDL",
+      "decimal_places": 2,
+      "numeric_code": "498"
+    },
+    {
+      "currency_name": "MALAGASY ARIARY",
+      "currency_code": "MGA",
+      "decimal_places": 2,
+      "numeric_code": "969"
+    },
+    {
+      "currency_name": "DENAR",
+      "currency_code": "MKD",
+      "decimal_places": 2,
+      "numeric_code": "807"
+    },
+    {
+      "currency_name": "TUGRIK",
+      "currency_code": "MNT",
+      "decimal_places": 2,
+      "numeric_code": "496"
+    },
+    {
+      "currency_name": "PATACA",
+      "currency_code": "MOP",
+      "decimal_places": 2,
+      "numeric_code": "446"
+    },
+    {
+      "currency_name": "MAURITIUS RUPEE",
+      "currency_code": "MUR",
+      "decimal_places": 2,
+      "numeric_code": "480"
+    },
+    {
+      "currency_name": "MALDIVE RUFIYAA",
+      "currency_code": "MVR",
+      "decimal_places": 2,
+      "numeric_code": "462"
+    },
+    {
+      "currency_name": "KWACHA",
+      "currency_code": "MWK",
+      "decimal_places": 2,
+      "numeric_code": "454"
+    },
+    {
+      "currency_name": "MEXICAN PESO",
+      "currency_code": "MXN",
+      "decimal_places": 2,
+      "numeric_code": "484"
+    },
+    {
+      "currency_name": "MALAYSIAN RINGITS",
+      "currency_code": "MYR",
+      "decimal_places": 2,
+      "numeric_code": "458"
+    },
+    {
+      "currency_name": "MOZAMBIQUE METICAL",
+      "currency_code": "MZN",
+      "decimal_places": 2,
+      "numeric_code": "943"
+    },
+    {
+      "currency_name": "DOLLAR",
+      "currency_code": "NAD",
+      "decimal_places": 2,
+      "numeric_code": "516"
+    },
+    {
+      "currency_name": "NAIRA",
+      "currency_code": "NGN",
+      "decimal_places": 2,
+      "numeric_code": "566"
+    },
+    {
+      "currency_name": "CORDOBA ORO",
+      "currency_code": "NIO",
+      "decimal_places": 2,
+      "numeric_code": "558"
+    },
+    {
+      "currency_name": "NORWEGIAN KRONE",
+      "currency_code": "NOK",
+      "decimal_places": 2,
+      "numeric_code": "578"
+    },
+    {
+      "currency_name": "NEPALESE RUPEE",
+      "currency_code": "NPR",
+      "decimal_places": 2,
+      "numeric_code": "524"
+    },
+    {
+      "currency_name": "NEW ZEALAND DOLLAR",
+      "currency_code": "NZD",
+      "decimal_places": 2,
+      "numeric_code": "554"
+    },
+    {
+      "currency_name": "RIAL",
+      "currency_code": "OMR",
+      "decimal_places": 2,
+      "numeric_code": "512"
+    },
+    {
+      "currency_name": "BALBOA",
+      "currency_code": "PAB",
+      "decimal_places": 2,
+      "numeric_code": "590"
+    },
+    {
+      "currency_name": "NUEVO SOL",
+      "currency_code": "PEN",
+      "decimal_places": 2,
+      "numeric_code": "604"
+    },
+    {
+      "currency_name": "KINA",
+      "currency_code": "PGK",
+      "decimal_places": 2,
+      "numeric_code": "598"
+    },
+    {
+      "currency_name": "PHILIPPINE PESO",
+      "currency_code": "PHP",
+      "decimal_places": 2,
+      "numeric_code": "608"
+    },
+    {
+      "currency_name": "PAKISTAN RUPEE",
+      "currency_code": "PKR",
+      "decimal_places": 2,
+      "numeric_code": "586"
+    },
+    {
+      "currency_name": "POLISH ZLOTY",
+      "currency_code": "PLN",
+      "decimal_places": 2,
+      "numeric_code": "985"
+    },
+    {
+      "currency_name": "GUARANI",
+      "currency_code": "PYG",
+      "decimal_places": 2,
+      "numeric_code": "600"
+    },
+    {
+      "currency_name": "QATARI RIYAL",
+      "currency_code": "QAR",
+      "decimal_places": 2,
+      "numeric_code": "634"
+    },
+    {
+      "currency_name": "ROMANIAN LEU",
+      "currency_code": "RON",
+      "decimal_places": 2,
+      "numeric_code": "946"
+    },
+    {
+      "currency_name": "SERBIAN DINAR",
+      "currency_code": "RSD",
+      "decimal_places": 2,
+      "numeric_code": "941"
+    },
+    {
+      "currency_name": "RWANDA FRANC",
+      "currency_code": "RWF",
+      "decimal_places": 2,
+      "numeric_code": "646"
+    },
+    {
+      "currency_name": "RIYAL",
+      "currency_code": "SAR",
+      "decimal_places": 2,
+      "numeric_code": "682"
+    },
+    {
+      "currency_name": "SOLOMON ISL DOLLAR",
+      "currency_code": "SBD",
+      "decimal_places": 2,
+      "numeric_code": "090"
+    },
+    {
+      "currency_name": "SEYCHELLES RUPEE",
+      "currency_code": "SCR",
+      "decimal_places": 2,
+      "numeric_code": "690"
+    },
+    {
+      "currency_name": "SWEDISH KRONA",
+      "currency_code": "SEK",
+      "decimal_places": 2,
+      "numeric_code": "752"
+    },
+    {
+      "currency_name": "SINGAPORE DOLLAR",
+      "currency_code": "SGD",
+      "decimal_places": 2,
+      "numeric_code": "702"
+    },
+    {
+      "currency_name": "ST. HELENA POUND",
+      "currency_code": "SHP",
+      "decimal_places": 2,
+      "numeric_code": "654"
+    },
+    {
+      "currency_name": "SIERRA LEONEAN LEONE",
+      "currency_code": "SLE",
+      "decimal_places": 2,
+      "numeric_code": "925"
+    },
+    {
+      "currency_name": "SOMALI SHILLING",
+      "currency_code": "SOS",
+      "decimal_places": 2,
+      "numeric_code": "706"
+    },
+    {
+      "currency_name": "SURINAME DOLLAR",
+      "currency_code": "SRD",
+      "decimal_places": 2,
+      "numeric_code": "968"
+    },
+    {
+      "currency_name": "DOBRA",
+      "currency_code": "STD",
+      "decimal_places": 2,
+      "numeric_code": "678"
+    },
+    {
+      "currency_name": "EL SALVADOR COLON",
+      "currency_code": "SVC",
+      "decimal_places": 2,
+      "numeric_code": "222"
+    },
+    {
+      "currency_name": "LILANGENI",
+      "currency_code": "SZL",
+      "decimal_places": 2,
+      "numeric_code": "748"
+    },
+    {
+      "currency_name": "BAHT",
+      "currency_code": "THB",
+      "decimal_places": 2,
+      "numeric_code": "764"
+    },
+    {
+      "currency_name": "TAJIKISTAN SOMONI",
+      "currency_code": "TJS",
+      "decimal_places": 2,
+      "numeric_code": "972"
+    },
+    {
+      "currency_name": "MANAT",
+      "currency_code": "TMT",
+      "decimal_places": 2,
+      "numeric_code": "934"
+    },
+    {
+      "currency_name": "TUNISIAN DINAR",
+      "currency_code": "TND",
+      "decimal_places": 2,
+      "numeric_code": "788"
+    },
+    {
+      "currency_name": "PA ANGA",
+      "currency_code": "TOP",
+      "decimal_places": 2,
+      "numeric_code": "776"
+    },
+    {
+      "currency_name": "TURKISH LIRA",
+      "currency_code": "TRY",
+      "decimal_places": 2,
+      "numeric_code": "949"
+    },
+    {
+      "currency_name": "TRIN. \u0026 TOB. DOLLAR",
+      "currency_code": "TTD",
+      "decimal_places": 2,
+      "numeric_code": "780"
+    },
+    {
+      "currency_name": "NEW TAIWAN DOLLAR",
+      "currency_code": "TWD",
+      "decimal_places": 2,
+      "numeric_code": "901"
+    },
+    {
+      "currency_name": "TANZANIAN SHILLING",
+      "currency_code": "TZS",
+      "decimal_places": 2,
+      "numeric_code": "834"
+    },
+    {
+      "currency_name": "UGANDA SHILLING",
+      "currency_code": "UGX",
+      "decimal_places": 2,
+      "numeric_code": "800"
+    },
+    {
+      "currency_name": "US DOLLAR",
+      "currency_code": "USD",
+      "decimal_places": 2,
+      "numeric_code": "840"
+    },
+    {
+      "currency_name": "PESO URUGUAYO",
+      "currency_code": "UYU",
+      "decimal_places": 2,
+      "numeric_code": "858"
+    },
+    {
+      "currency_name": "UZBEKISTAN SUM",
+      "currency_code": "UZS",
+      "decimal_places": 2,
+      "numeric_code": "860"
+    },
+    {
+      "currency_name": "DONG",
+      "currency_code": "VND",
+      "decimal_places": 2,
+      "numeric_code": "704"
+    },
+    {
+      "currency_name": "VATU",
+      "currency_code": "VUV",
+      "decimal_places": 2,
+      "numeric_code": "548"
+    },
+    {
+      "currency_name": "TALA",
+      "currency_code": "WST",
+      "decimal_places": 2,
+      "numeric_code": "882"
+    },
+    {
+      "currency_name": "C.F.A. FRANC BEAC",
+      "currency_code": "XAF",
+      "decimal_places": 2,
+      "numeric_code": "950"
+    },
+    {
+      "currency_name": "E. CARIBBEAN D LR",
+      "currency_code": "XCD",
+      "decimal_places": 2,
+      "numeric_code": "951"
+    },
+    {
+      "currency_name": "C.F.A. FRANC BCEAO",
+      "currency_code": "XOF",
+      "decimal_places": 2,
+      "numeric_code": "952"
+    },
+    {
+      "currency_name": "C.F.A. FRANC",
+      "currency_code": "XPF",
+      "decimal_places": 2,
+      "numeric_code": "953"
+    },
+    {
+      "currency_name": "YEMENI RIAL",
+      "currency_code": "YER",
+      "decimal_places": 2,
+      "numeric_code": "886"
+    },
+    {
+      "currency_name": "RAND",
+      "currency_code": "ZAR",
+      "decimal_places": 2,
+      "numeric_code": "710"
+    },
+    {
+      "currency_name": "ZAMBIAN KWACHA",
+      "currency_code": "ZMW",
+      "decimal_places": 2,
+      "numeric_code": "967"
+    }
+  ],
+  "balance": [
+    {
+      "currency_name": "UAE DIRHAM",
+      "currency_code": "AED",
+      "decimal_places": 2,
+      "numeric_code": "784"
+    },
+    {
+      "currency_name": "AUSTRALIAN DOLLAR",
+      "currency_code": "AUD",
+      "decimal_places": 2,
+      "numeric_code": "036"
+    },
+    {
+      "currency_name": "CANADIAN DOLLAR",
+      "currency_code": "CAD",
+      "decimal_places": 2,
+      "numeric_code": "124"
+    },
+    {
+      "currency_name": "SWISS FRANC",
+      "currency_code": "CHF",
+      "decimal_places": 2,
+      "numeric_code": "756"
+    },
+    {
+      "currency_name": "OFFSHORE RENMINBI",
+      "currency_code": "CNH",
+      "decimal_places": 2,
+      "numeric_code": "157"
+    },
+    {
+      "currency_name": "COLOMBIAN PESO",
+      "currency_code": "COP",
+      "decimal_places": 2,
+      "numeric_code": "170"
+    },
+    {
+      "currency_name": "EURO",
+      "currency_code": "EUR",
+      "decimal_places": 2,
+      "numeric_code": "978"
+    },
+    {
+      "currency_name": "BRITISH POUND STERLING",
+      "currency_code": "GBP",
+      "decimal_places": 2,
+      "numeric_code": "826"
+    },
+    {
+      "currency_name": "HONG-KONG DOLLAR",
+      "currency_code": "HKD",
+      "decimal_places": 2,
+      "numeric_code": "344"
+    },
+    {
+      "currency_name": "INDONESIAN RUPIAH",
+      "currency_code": "IDR",
+      "decimal_places": 2,
+      "numeric_code": "360"
+    },
+    {
+      "currency_name": "INDIAN RUPEE",
+      "currency_code": "INR",
+      "decimal_places": 2,
+      "numeric_code": "356"
+    },
+    {
+      "currency_name": "JAPANESE YEN",
+      "currency_code": "JPY",
+      "decimal_places": 2,
+      "numeric_code": "392"
+    },
+    {
+      "currency_name": "MALAYSIAN RINGITS",
+      "currency_code": "MYR",
+      "decimal_places": 2,
+      "numeric_code": "458"
+    },
+    {
+      "currency_name": "NAIRA",
+      "currency_code": "NGN",
+      "decimal_places": 2,
+      "numeric_code": "566"
+    },
+    {
+      "currency_name": "NEW ZEALAND DOLLAR",
+      "currency_code": "NZD",
+      "decimal_places": 2,
+      "numeric_code": "554"
+    },
+    {
+      "currency_name": "SINGAPORE DOLLAR",
+      "currency_code": "SGD",
+      "decimal_places": 2,
+      "numeric_code": "702"
+    },
+    {
+      "currency_name": "BAHT",
+      "currency_code": "THB",
+      "decimal_places": 2,
+      "numeric_code": "764"
+    },
+    {
+      "currency_name": "US DOLLAR",
+      "currency_code": "USD",
+      "decimal_places": 2,
+      "numeric_code": "840"
+    }
+  ],
+  "conversion": [
+    {
+      "currency_name": "AUSTRALIAN DOLLAR",
+      "currency_code": "AUD",
+      "decimal_places": 2,
+      "numeric_code": "036"
+    },
+    {
+      "currency_name": "CANADIAN DOLLAR",
+      "currency_code": "CAD",
+      "decimal_places": 2,
+      "numeric_code": "124"
+    },
+    {
+      "currency_name": "SWISS FRANC",
+      "currency_code": "CHF",
+      "decimal_places": 2,
+      "numeric_code": "756"
+    },
+    {
+      "currency_name": "OFFSHORE RENMINBI",
+      "currency_code": "CNH",
+      "decimal_places": 2,
+      "numeric_code": "157"
+    },
+    {
+      "currency_name": "COLOMBIAN PESO",
+      "currency_code": "COP",
+      "decimal_places": 2,
+      "numeric_code": "170"
+    },
+    {
+      "currency_name": "EURO",
+      "currency_code": "EUR",
+      "decimal_places": 2,
+      "numeric_code": "978"
+    },
+    {
+      "currency_name": "BRITISH POUND STERLING",
+      "currency_code": "GBP",
+      "decimal_places": 2,
+      "numeric_code": "826"
+    },
+    {
+      "currency_name": "HONG-KONG DOLLAR",
+      "currency_code": "HKD",
+      "decimal_places": 2,
+      "numeric_code": "344"
+    },
+    {
+      "currency_name": "INDONESIAN RUPIAH",
+      "currency_code": "IDR",
+      "decimal_places": 2,
+      "numeric_code": "360"
+    },
+    {
+      "currency_name": "INDIAN RUPEE",
+      "currency_code": "INR",
+      "decimal_places": 2,
+      "numeric_code": "356"
+    },
+    {
+      "currency_name": "JAPANESE YEN",
+      "currency_code": "JPY",
+      "decimal_places": 2,
+      "numeric_code": "392"
+    },
+    {
+      "currency_name": "MALAYSIAN RINGITS",
+      "currency_code": "MYR",
+      "decimal_places": 2,
+      "numeric_code": "458"
+    },
+    {
+      "currency_name": "NAIRA",
+      "currency_code": "NGN",
+      "decimal_places": 2,
+      "numeric_code": "566"
+    },
+    {
+      "currency_name": "NEW ZEALAND DOLLAR",
+      "currency_code": "NZD",
+      "decimal_places": 2,
+      "numeric_code": "554"
+    },
+    {
+      "currency_name": "SINGAPORE DOLLAR",
+      "currency_code": "SGD",
+      "decimal_places": 2,
+      "numeric_code": "702"
+    },
+    {
+      "currency_name": "US DOLLAR",
+      "currency_code": "USD",
+      "decimal_places": 2,
+      "numeric_code": "840"
+    }
+  ],
+  "deposit": [
+    {
+      "currency_name": "UAE DIRHAM",
+      "currency_code": "AED",
+      "decimal_places": 2,
+      "numeric_code": "784"
+    },
+    {
+      "currency_name": "NEW AFGHANI",
+      "currency_code": "AFN",
+      "decimal_places": 2,
+      "numeric_code": "971"
+    },
+    {
+      "currency_name": "LEK",
+      "currency_code": "ALL",
+      "decimal_places": 2,
+      "numeric_code": "008"
+    },
+    {
+      "currency_name": "DRAM",
+      "currency_code": "AMD",
+      "decimal_places": 2,
+      "numeric_code": "051"
+    },
+    {
+      "currency_name": "NETH. ANT. GUILDER",
+      "currency_code": "ANG",
+      "decimal_places": 2,
+      "numeric_code": "532"
+    },
+    {
+      "currency_name": "GUILDER",
+      "currency_code": "AWG",
+      "decimal_places": 2,
+      "numeric_code": "533"
+    },
+    {
+      "currency_name": "AZERBAIJANIAN MANAT",
+      "currency_code": "AZN",
+      "decimal_places": 2,
+      "numeric_code": "944"
+    },
+    {
+      "currency_name": "CONVERTIBLE MARK",
+      "currency_code": "BAM",
+      "decimal_places": 2,
+      "numeric_code": "977"
+    },
+    {
+      "currency_name": "BARBADOS DOLLAR",
+      "currency_code": "BBD",
+      "decimal_places": 2,
+      "numeric_code": "052"
+    },
+    {
+      "currency_name": "TAKA",
+      "currency_code": "BDT",
+      "decimal_places": 2,
+      "numeric_code": "050"
+    },
+    {
+      "currency_name": "NEW BULGARIAN LEV",
+      "currency_code": "BGN",
+      "decimal_places": 2,
+      "numeric_code": "975"
+    },
+    {
+      "currency_name": "BAHRAINI DINAR",
+      "currency_code": "BHD",
+      "decimal_places": 2,
+      "numeric_code": "048"
+    },
+    {
+      "currency_name": "BURUNDI FRANC",
+      "currency_code": "BIF",
+      "decimal_places": 2,
+      "numeric_code": "108"
+    },
+    {
+      "currency_name": "BERMUDAN DOLLAR",
+      "currency_code": "BMD",
+      "decimal_places": 2,
+      "numeric_code": "060"
+    },
+    {
+      "currency_name": "BRUNEI DOLLAR",
+      "currency_code": "BND",
+      "decimal_places": 2,
+      "numeric_code": "096"
+    },
+    {
+      "currency_name": "BOLIVIAN",
+      "currency_code": "BOB",
+      "decimal_places": 2,
+      "numeric_code": "068"
+    },
+    {
+      "currency_name": "REAL",
+      "currency_code": "BRL",
+      "decimal_places": 2,
+      "numeric_code": "986"
+    },
+    {
+      "currency_name": "BAHAMIAN DOLLAR",
+      "currency_code": "BSD",
+      "decimal_places": 2,
+      "numeric_code": "044"
+    },
+    {
+      "currency_name": "BHUTANESE NGULTRUM",
+      "currency_code": "BTN",
+      "decimal_places": 2,
+      "numeric_code": "064"
+    },
+    {
+      "currency_name": "PULA",
+      "currency_code": "BWP",
+      "decimal_places": 2,
+      "numeric_code": "072"
+    },
+    {
+      "currency_name": "BELIZE DOLLAR",
+      "currency_code": "BZD",
+      "decimal_places": 2,
+      "numeric_code": "084"
+    },
+    {
+      "currency_name": "CANADIAN DOLLAR",
+      "currency_code": "CAD",
+      "decimal_places": 2,
+      "numeric_code": "124"
+    },
+    {
+      "currency_name": "CONGOLESE FRANC",
+      "currency_code": "CDF",
+      "decimal_places": 2,
+      "numeric_code": "976"
+    },
+    {
+      "currency_name": "SWISS FRANC",
+      "currency_code": "CHF",
+      "decimal_places": 2,
+      "numeric_code": "756"
+    },
+    {
+      "currency_name": "CHILEAN PESO",
+      "currency_code": "CLP",
+      "decimal_places": 2,
+      "numeric_code": "152"
+    },
+    {
+      "currency_name": "OFFSHORE RENMINBI",
+      "currency_code": "CNH",
+      "decimal_places": 2,
+      "numeric_code": "157"
+    },
+    {
+      "currency_name": "COLOMBIAN PESO",
+      "currency_code": "COP",
+      "decimal_places": 2,
+      "numeric_code": "170"
+    },
+    {
+      "currency_name": "COLON",
+      "currency_code": "CRC",
+      "decimal_places": 2,
+      "numeric_code": "188"
+    },
+    {
+      "currency_name": "ESCUDO",
+      "currency_code": "CVE",
+      "decimal_places": 2,
+      "numeric_code": "132"
+    },
+    {
+      "currency_name": "CZECH KORUNA",
+      "currency_code": "CZK",
+      "decimal_places": 2,
+      "numeric_code": "203"
+    },
+    {
+      "currency_name": "DJIBOUTI FRANC",
+      "currency_code": "DJF",
+      "decimal_places": 2,
+      "numeric_code": "262"
+    },
+    {
+      "currency_name": "DANISH KRONE",
+      "currency_code": "DKK",
+      "decimal_places": 2,
+      "numeric_code": "208"
+    },
+    {
+      "currency_name": "DOMINICAN PESO",
+      "currency_code": "DOP",
+      "decimal_places": 2,
+      "numeric_code": "214"
+    },
+    {
+      "currency_name": "EGYPTIAN POUND",
+      "currency_code": "EGP",
+      "decimal_places": 2,
+      "numeric_code": "818"
+    },
+    {
+      "currency_name": "ETHIOPIAN BIRR",
+      "currency_code": "ETB",
+      "decimal_places": 2,
+      "numeric_code": "230"
+    },
+    {
+      "currency_name": "EURO",
+      "currency_code": "EUR",
+      "decimal_places": 2,
+      "numeric_code": "978"
+    },
+    {
+      "currency_name": "FIJI DOLLAR",
+      "currency_code": "FJD",
+      "decimal_places": 2,
+      "numeric_code": "242"
+    },
+    {
+      "currency_name": "FALKLAND ISL POUND",
+      "currency_code": "FKP",
+      "decimal_places": 2,
+      "numeric_code": "238"
+    },
+    {
+      "currency_name": "BRITISH POUND STERLING",
+      "currency_code": "GBP",
+      "decimal_places": 2,
+      "numeric_code": "826"
+    },
+    {
+      "currency_name": "LARI",
+      "currency_code": "GEL",
+      "decimal_places": 2,
+      "numeric_code": "981"
+    },
+    {
+      "currency_name": "GHANA CEDI",
+      "currency_code": "GHS",
+      "decimal_places": 2,
+      "numeric_code": "936"
+    },
+    {
+      "currency_name": "GIBRALTAR POUND",
+      "currency_code": "GIP",
+      "decimal_places": 2,
+      "numeric_code": "292"
+    },
+    {
+      "currency_name": "DA LASI",
+      "currency_code": "GMD",
+      "decimal_places": 2,
+      "numeric_code": "270"
+    },
+    {
+      "currency_name": "GUINEA FRANC",
+      "currency_code": "GNF",
+      "decimal_places": 2,
+      "numeric_code": "324"
+    },
+    {
+      "currency_name": "QUETZAL",
+      "currency_code": "GTQ",
+      "decimal_places": 2,
+      "numeric_code": "320"
+    },
+    {
+      "currency_name": "GUYANA DOLLAR",
+      "currency_code": "GYD",
+      "decimal_places": 2,
+      "numeric_code": "328"
+    },
+    {
+      "currency_name": "HONG-KONG DOLLAR",
+      "currency_code": "HKD",
+      "decimal_places": 2,
+      "numeric_code": "344"
+    },
+    {
+      "currency_name": "LEMPIRA",
+      "currency_code": "HNL",
+      "decimal_places": 2,
+      "numeric_code": "340"
+    },
+    {
+      "currency_name": "GOURDE",
+      "currency_code": "HTG",
+      "decimal_places": 2,
+      "numeric_code": "332"
+    },
+    {
+      "currency_name": "FORINT",
+      "currency_code": "HUF",
+      "decimal_places": 2,
+      "numeric_code": "348"
+    },
+    {
+      "currency_name": "INDONESIAN RUPIAH",
+      "currency_code": "IDR",
+      "decimal_places": 2,
+      "numeric_code": "360"
+    },
+    {
+      "currency_name": "NEW SHEKEL",
+      "currency_code": "ILS",
+      "decimal_places": 2,
+      "numeric_code": "376"
+    },
+    {
+      "currency_name": "INDIAN RUPEE",
+      "currency_code": "INR",
+      "decimal_places": 2,
+      "numeric_code": "356"
+    },
+    {
+      "currency_name": "IRAQI DINAR",
+      "currency_code": "IQD",
+      "decimal_places": 2,
+      "numeric_code": "368"
+    },
+    {
+      "currency_name": "ICELAND KRONA",
+      "currency_code": "ISK",
+      "decimal_places": 2,
+      "numeric_code": "352"
+    },
+    {
+      "currency_name": "JAMAICAN DOLLAR",
+      "currency_code": "JMD",
+      "decimal_places": 2,
+      "numeric_code": "388"
+    },
+    {
+      "currency_name": "JORDANIAN DINAR",
+      "currency_code": "JOD",
+      "decimal_places": 2,
+      "numeric_code": "400"
+    },
+    {
+      "currency_name": "JAPANESE YEN",
+      "currency_code": "JPY",
+      "decimal_places": 2,
+      "numeric_code": "392"
+    },
+    {
+      "currency_name": "KENYAN SHILLING",
+      "currency_code": "KES",
+      "decimal_places": 2,
+      "numeric_code": "404"
+    },
+    {
+      "currency_name": "KYRGYZSTAN SOM",
+      "currency_code": "KGS",
+      "decimal_places": 2,
+      "numeric_code": "417"
+    },
+    {
+      "currency_name": "RIEL",
+      "currency_code": "KHR",
+      "decimal_places": 2,
+      "numeric_code": "116"
+    },
+    {
+      "currency_name": "COMOROS FRANC",
+      "currency_code": "KMF",
+      "decimal_places": 2,
+      "numeric_code": "174"
+    },
+    {
+      "currency_name": "S. KOREAN WON",
+      "currency_code": "KRW",
+      "decimal_places": 2,
+      "numeric_code": "410"
+    },
+    {
+      "currency_name": "KUWAITI DINAR",
+      "currency_code": "KWD",
+      "decimal_places": 2,
+      "numeric_code": "414"
+    },
+    {
+      "currency_name": "CAYMAN ISL DOLLAR",
+      "currency_code": "KYD",
+      "decimal_places": 2,
+      "numeric_code": "136"
+    },
+    {
+      "currency_name": "TENGE",
+      "currency_code": "KZT",
+      "decimal_places": 2,
+      "numeric_code": "398"
+    },
+    {
+      "currency_name": "KIP",
+      "currency_code": "LAK",
+      "decimal_places": 2,
+      "numeric_code": "418"
+    },
+    {
+      "currency_name": "LEBANESE POUND",
+      "currency_code": "LBP",
+      "decimal_places": 2,
+      "numeric_code": "422"
+    },
+    {
+      "currency_name": "SRI LANKA RUPEE",
+      "currency_code": "LKR",
+      "decimal_places": 2,
+      "numeric_code": "144"
+    },
+    {
+      "currency_name": "LIBERIA DOLLAR",
+      "currency_code": "LRD",
+      "decimal_places": 2,
+      "numeric_code": "430"
+    },
+    {
+      "currency_name": "LESOTHO LOTI",
+      "currency_code": "LSL",
+      "decimal_places": 2,
+      "numeric_code": "426"
+    },
+    {
+      "currency_name": "MOROCCAN DIRHAM",
+      "currency_code": "MAD",
+      "decimal_places": 2,
+      "numeric_code": "504"
+    },
+    {
+      "currency_name": "LEU",
+      "currency_code": "MDL",
+      "decimal_places": 2,
+      "numeric_code": "498"
+    },
+    {
+      "currency_name": "MALAGASY ARIARY",
+      "currency_code": "MGA",
+      "decimal_places": 2,
+      "numeric_code": "969"
+    },
+    {
+      "currency_name": "DENAR",
+      "currency_code": "MKD",
+      "decimal_places": 2,
+      "numeric_code": "807"
+    },
+    {
+      "currency_name": "TUGRIK",
+      "currency_code": "MNT",
+      "decimal_places": 2,
+      "numeric_code": "496"
+    },
+    {
+      "currency_name": "PATACA",
+      "currency_code": "MOP",
+      "decimal_places": 2,
+      "numeric_code": "446"
+    },
+    {
+      "currency_name": "MAURITIUS RUPEE",
+      "currency_code": "MUR",
+      "decimal_places": 2,
+      "numeric_code": "480"
+    },
+    {
+      "currency_name": "MALDIVE RUFIYAA",
+      "currency_code": "MVR",
+      "decimal_places": 2,
+      "numeric_code": "462"
+    },
+    {
+      "currency_name": "KWACHA",
+      "currency_code": "MWK",
+      "decimal_places": 2,
+      "numeric_code": "454"
+    },
+    {
+      "currency_name": "MEXICAN PESO",
+      "currency_code": "MXN",
+      "decimal_places": 2,
+      "numeric_code": "484"
+    },
+    {
+      "currency_name": "MALAYSIAN RINGITS",
+      "currency_code": "MYR",
+      "decimal_places": 2,
+      "numeric_code": "458"
+    },
+    {
+      "currency_name": "MOZAMBIQUE METICAL",
+      "currency_code": "MZN",
+      "decimal_places": 2,
+      "numeric_code": "943"
+    },
+    {
+      "currency_name": "DOLLAR",
+      "currency_code": "NAD",
+      "decimal_places": 2,
+      "numeric_code": "516"
+    },
+    {
+      "currency_name": "NAIRA",
+      "currency_code": "NGN",
+      "decimal_places": 2,
+      "numeric_code": "566"
+    },
+    {
+      "currency_name": "CORDOBA ORO",
+      "currency_code": "NIO",
+      "decimal_places": 2,
+      "numeric_code": "558"
+    },
+    {
+      "currency_name": "NORWEGIAN KRONE",
+      "currency_code": "NOK",
+      "decimal_places": 2,
+      "numeric_code": "578"
+    },
+    {
+      "currency_name": "NEPALESE RUPEE",
+      "currency_code": "NPR",
+      "decimal_places": 2,
+      "numeric_code": "524"
+    },
+    {
+      "currency_name": "NEW ZEALAND DOLLAR",
+      "currency_code": "NZD",
+      "decimal_places": 2,
+      "numeric_code": "554"
+    },
+    {
+      "currency_name": "RIAL",
+      "currency_code": "OMR",
+      "decimal_places": 2,
+      "numeric_code": "512"
+    },
+    {
+      "currency_name": "BALBOA",
+      "currency_code": "PAB",
+      "decimal_places": 2,
+      "numeric_code": "590"
+    },
+    {
+      "currency_name": "NUEVO SOL",
+      "currency_code": "PEN",
+      "decimal_places": 2,
+      "numeric_code": "604"
+    },
+    {
+      "currency_name": "KINA",
+      "currency_code": "PGK",
+      "decimal_places": 2,
+      "numeric_code": "598"
+    },
+    {
+      "currency_name": "PHILIPPINE PESO",
+      "currency_code": "PHP",
+      "decimal_places": 2,
+      "numeric_code": "608"
+    },
+    {
+      "currency_name": "PAKISTAN RUPEE",
+      "currency_code": "PKR",
+      "decimal_places": 2,
+      "numeric_code": "586"
+    },
+    {
+      "currency_name": "POLISH ZLOTY",
+      "currency_code": "PLN",
+      "decimal_places": 2,
+      "numeric_code": "985"
+    },
+    {
+      "currency_name": "GUARANI",
+      "currency_code": "PYG",
+      "decimal_places": 2,
+      "numeric_code": "600"
+    },
+    {
+      "currency_name": "QATARI RIYAL",
+      "currency_code": "QAR",
+      "decimal_places": 2,
+      "numeric_code": "634"
+    },
+    {
+      "currency_name": "ROMANIAN LEU",
+      "currency_code": "RON",
+      "decimal_places": 2,
+      "numeric_code": "946"
+    },
+    {
+      "currency_name": "SERBIAN DINAR",
+      "currency_code": "RSD",
+      "decimal_places": 2,
+      "numeric_code": "941"
+    },
+    {
+      "currency_name": "RWANDA FRANC",
+      "currency_code": "RWF",
+      "decimal_places": 2,
+      "numeric_code": "646"
+    },
+    {
+      "currency_name": "RIYAL",
+      "currency_code": "SAR",
+      "decimal_places": 2,
+      "numeric_code": "682"
+    },
+    {
+      "currency_name": "SOLOMON ISL DOLLAR",
+      "currency_code": "SBD",
+      "decimal_places": 2,
+      "numeric_code": "090"
+    },
+    {
+      "currency_name": "SEYCHELLES RUPEE",
+      "currency_code": "SCR",
+      "decimal_places": 2,
+      "numeric_code": "690"
+    },
+    {
+      "currency_name": "SWEDISH KRONA",
+      "currency_code": "SEK",
+      "decimal_places": 2,
+      "numeric_code": "752"
+    },
+    {
+      "currency_name": "SINGAPORE DOLLAR",
+      "currency_code": "SGD",
+      "decimal_places": 2,
+      "numeric_code": "702"
+    },
+    {
+      "currency_name": "ST. HELENA POUND",
+      "currency_code": "SHP",
+      "decimal_places": 2,
+      "numeric_code": "654"
+    },
+    {
+      "currency_name": "SIERRA LEONEAN LEONE",
+      "currency_code": "SLE",
+      "decimal_places": 2,
+      "numeric_code": "925"
+    },
+    {
+      "currency_name": "SOMALI SHILLING",
+      "currency_code": "SOS",
+      "decimal_places": 2,
+      "numeric_code": "706"
+    },
+    {
+      "currency_name": "SURINAME DOLLAR",
+      "currency_code": "SRD",
+      "decimal_places": 2,
+      "numeric_code": "968"
+    },
+    {
+      "currency_name": "DOBRA",
+      "currency_code": "STD",
+      "decimal_places": 2,
+      "numeric_code": "678"
+    },
+    {
+      "currency_name": "EL SALVADOR COLON",
+      "currency_code": "SVC",
+      "decimal_places": 2,
+      "numeric_code": "222"
+    },
+    {
+      "currency_name": "LILANGENI",
+      "currency_code": "SZL",
+      "decimal_places": 2,
+      "numeric_code": "748"
+    },
+    {
+      "currency_name": "BAHT",
+      "currency_code": "THB",
+      "decimal_places": 2,
+      "numeric_code": "764"
+    },
+    {
+      "currency_name": "TAJIKISTAN SOMONI",
+      "currency_code": "TJS",
+      "decimal_places": 2,
+      "numeric_code": "972"
+    },
+    {
+      "currency_name": "MANAT",
+      "currency_code": "TMT",
+      "decimal_places": 2,
+      "numeric_code": "934"
+    },
+    {
+      "currency_name": "TUNISIAN DINAR",
+      "currency_code": "TND",
+      "decimal_places": 2,
+      "numeric_code": "788"
+    },
+    {
+      "currency_name": "PA ANGA",
+      "currency_code": "TOP",
+      "decimal_places": 2,
+      "numeric_code": "776"
+    },
+    {
+      "currency_name": "TURKISH LIRA",
+      "currency_code": "TRY",
+      "decimal_places": 2,
+      "numeric_code": "949"
+    },
+    {
+      "currency_name": "TRIN. \u0026 TOB. DOLLAR",
+      "currency_code": "TTD",
+      "decimal_places": 2,
+      "numeric_code": "780"
+    },
+    {
+      "currency_name": "NEW TAIWAN DOLLAR",
+      "currency_code": "TWD",
+      "decimal_places": 2,
+      "numeric_code": "901"
+    },
+    {
+      "currency_name": "TANZANIAN SHILLING",
+      "currency_code": "TZS",
+      "decimal_places": 2,
+      "numeric_code": "834"
+    },
+    {
+      "currency_name": "UGANDA SHILLING",
+      "currency_code": "UGX",
+      "decimal_places": 2,
+      "numeric_code": "800"
+    },
+    {
+      "currency_name": "US DOLLAR",
+      "currency_code": "USD",
+      "decimal_places": 2,
+      "numeric_code": "840"
+    },
+    {
+      "currency_name": "PESO URUGUAYO",
+      "currency_code": "UYU",
+      "decimal_places": 2,
+      "numeric_code": "858"
+    },
+    {
+      "currency_name": "UZBEKISTAN SUM",
+      "currency_code": "UZS",
+      "decimal_places": 2,
+      "numeric_code": "860"
+    },
+    {
+      "currency_name": "DONG",
+      "currency_code": "VND",
+      "decimal_places": 2,
+      "numeric_code": "704"
+    },
+    {
+      "currency_name": "VATU",
+      "currency_code": "VUV",
+      "decimal_places": 2,
+      "numeric_code": "548"
+    },
+    {
+      "currency_name": "TALA",
+      "currency_code": "WST",
+      "decimal_places": 2,
+      "numeric_code": "882"
+    },
+    {
+      "currency_name": "C.F.A. FRANC BEAC",
+      "currency_code": "XAF",
+      "decimal_places": 2,
+      "numeric_code": "950"
+    },
+    {
+      "currency_name": "E. CARIBBEAN D LR",
+      "currency_code": "XCD",
+      "decimal_places": 2,
+      "numeric_code": "951"
+    },
+    {
+      "currency_name": "C.F.A. FRANC BCEAO",
+      "currency_code": "XOF",
+      "decimal_places": 2,
+      "numeric_code": "952"
+    },
+    {
+      "currency_name": "C.F.A. FRANC",
+      "currency_code": "XPF",
+      "decimal_places": 2,
+      "numeric_code": "953"
+    },
+    {
+      "currency_name": "YEMENI RIAL",
+      "currency_code": "YER",
+      "decimal_places": 2,
+      "numeric_code": "886"
+    },
+    {
+      "currency_name": "RAND",
+      "currency_code": "ZAR",
+      "decimal_places": 2,
+      "numeric_code": "710"
+    },
+    {
+      "currency_name": "ZAMBIAN KWACHA",
+      "currency_code": "ZMW",
+      "decimal_places": 2,
+      "numeric_code": "967"
+    }
+  ],
+  "global_account": [
+    {
+      "currency_name": "UAE DIRHAM",
+      "currency_code": "AED",
+      "decimal_places": 2,
+      "numeric_code": "784"
+    },
+    {
+      "currency_name": "NEW AFGHANI",
+      "currency_code": "AFN",
+      "decimal_places": 2,
+      "numeric_code": "971"
+    },
+    {
+      "currency_name": "LEK",
+      "currency_code": "ALL",
+      "decimal_places": 2,
+      "numeric_code": "008"
+    },
+    {
+      "currency_name": "DRAM",
+      "currency_code": "AMD",
+      "decimal_places": 2,
+      "numeric_code": "051"
+    },
+    {
+      "currency_name": "NETH. ANT. GUILDER",
+      "currency_code": "ANG",
+      "decimal_places": 2,
+      "numeric_code": "532"
+    },
+    {
+      "currency_name": "AUSTRALIAN DOLLAR",
+      "currency_code": "AUD",
+      "decimal_places": 2,
+      "numeric_code": "036"
+    },
+    {
+      "currency_name": "GUILDER",
+      "currency_code": "AWG",
+      "decimal_places": 2,
+      "numeric_code": "533"
+    },
+    {
+      "currency_name": "AZERBAIJANIAN MANAT",
+      "currency_code": "AZN",
+      "decimal_places": 2,
+      "numeric_code": "944"
+    },
+    {
+      "currency_name": "CONVERTIBLE MARK",
+      "currency_code": "BAM",
+      "decimal_places": 2,
+      "numeric_code": "977"
+    },
+    {
+      "currency_name": "BARBADOS DOLLAR",
+      "currency_code": "BBD",
+      "decimal_places": 2,
+      "numeric_code": "052"
+    },
+    {
+      "currency_name": "TAKA",
+      "currency_code": "BDT",
+      "decimal_places": 2,
+      "numeric_code": "050"
+    },
+    {
+      "currency_name": "NEW BULGARIAN LEV",
+      "currency_code": "BGN",
+      "decimal_places": 2,
+      "numeric_code": "975"
+    },
+    {
+      "currency_name": "BAHRAINI DINAR",
+      "currency_code": "BHD",
+      "decimal_places": 2,
+      "numeric_code": "048"
+    },
+    {
+      "currency_name": "BURUNDI FRANC",
+      "currency_code": "BIF",
+      "decimal_places": 2,
+      "numeric_code": "108"
+    },
+    {
+      "currency_name": "BERMUDAN DOLLAR",
+      "currency_code": "BMD",
+      "decimal_places": 2,
+      "numeric_code": "060"
+    },
+    {
+      "currency_name": "BRUNEI DOLLAR",
+      "currency_code": "BND",
+      "decimal_places": 2,
+      "numeric_code": "096"
+    },
+    {
+      "currency_name": "BOLIVIAN",
+      "currency_code": "BOB",
+      "decimal_places": 2,
+      "numeric_code": "068"
+    },
+    {
+      "currency_name": "REAL",
+      "currency_code": "BRL",
+      "decimal_places": 2,
+      "numeric_code": "986"
+    },
+    {
+      "currency_name": "BAHAMIAN DOLLAR",
+      "currency_code": "BSD",
+      "decimal_places": 2,
+      "numeric_code": "044"
+    },
+    {
+      "currency_name": "BHUTANESE NGULTRUM",
+      "currency_code": "BTN",
+      "decimal_places": 2,
+      "numeric_code": "064"
+    },
+    {
+      "currency_name": "PULA",
+      "currency_code": "BWP",
+      "decimal_places": 2,
+      "numeric_code": "072"
+    },
+    {
+      "currency_name": "BELIZE DOLLAR",
+      "currency_code": "BZD",
+      "decimal_places": 2,
+      "numeric_code": "084"
+    },
+    {
+      "currency_name": "CANADIAN DOLLAR",
+      "currency_code": "CAD",
+      "decimal_places": 2,
+      "numeric_code": "124"
+    },
+    {
+      "currency_name": "CONGOLESE FRANC",
+      "currency_code": "CDF",
+      "decimal_places": 2,
+      "numeric_code": "976"
+    },
+    {
+      "currency_name": "SWISS FRANC",
+      "currency_code": "CHF",
+      "decimal_places": 2,
+      "numeric_code": "756"
+    },
+    {
+      "currency_name": "CHILEAN PESO",
+      "currency_code": "CLP",
+      "decimal_places": 2,
+      "numeric_code": "152"
+    },
+    {
+      "currency_name": "OFFSHORE RENMINBI",
+      "currency_code": "CNH",
+      "decimal_places": 2,
+      "numeric_code": "157"
+    },
+    {
+      "currency_name": "COLOMBIAN PESO",
+      "currency_code": "COP",
+      "decimal_places": 2,
+      "numeric_code": "170"
+    },
+    {
+      "currency_name": "COLON",
+      "currency_code": "CRC",
+      "decimal_places": 2,
+      "numeric_code": "188"
+    },
+    {
+      "currency_name": "ESCUDO",
+      "currency_code": "CVE",
+      "decimal_places": 2,
+      "numeric_code": "132"
+    },
+    {
+      "currency_name": "CZECH KORUNA",
+      "currency_code": "CZK",
+      "decimal_places": 2,
+      "numeric_code": "203"
+    },
+    {
+      "currency_name": "DJIBOUTI FRANC",
+      "currency_code": "DJF",
+      "decimal_places": 2,
+      "numeric_code": "262"
+    },
+    {
+      "currency_name": "DANISH KRONE",
+      "currency_code": "DKK",
+      "decimal_places": 2,
+      "numeric_code": "208"
+    },
+    {
+      "currency_name": "DOMINICAN PESO",
+      "currency_code": "DOP",
+      "decimal_places": 2,
+      "numeric_code": "214"
+    },
+    {
+      "currency_name": "EGYPTIAN POUND",
+      "currency_code": "EGP",
+      "decimal_places": 2,
+      "numeric_code": "818"
+    },
+    {
+      "currency_name": "ETHIOPIAN BIRR",
+      "currency_code": "ETB",
+      "decimal_places": 2,
+      "numeric_code": "230"
+    },
+    {
+      "currency_name": "EURO",
+      "currency_code": "EUR",
+      "decimal_places": 2,
+      "numeric_code": "978"
+    },
+    {
+      "currency_name": "FIJI DOLLAR",
+      "currency_code": "FJD",
+      "decimal_places": 2,
+      "numeric_code": "242"
+    },
+    {
+      "currency_name": "FALKLAND ISL POUND",
+      "currency_code": "FKP",
+      "decimal_places": 2,
+      "numeric_code": "238"
+    },
+    {
+      "currency_name": "BRITISH POUND STERLING",
+      "currency_code": "GBP",
+      "decimal_places": 2,
+      "numeric_code": "826"
+    },
+    {
+      "currency_name": "LARI",
+      "currency_code": "GEL",
+      "decimal_places": 2,
+      "numeric_code": "981"
+    },
+    {
+      "currency_name": "GHANA CEDI",
+      "currency_code": "GHS",
+      "decimal_places": 2,
+      "numeric_code": "936"
+    },
+    {
+      "currency_name": "GIBRALTAR POUND",
+      "currency_code": "GIP",
+      "decimal_places": 2,
+      "numeric_code": "292"
+    },
+    {
+      "currency_name": "DA LASI",
+      "currency_code": "GMD",
+      "decimal_places": 2,
+      "numeric_code": "270"
+    },
+    {
+      "currency_name": "GUINEA FRANC",
+      "currency_code": "GNF",
+      "decimal_places": 2,
+      "numeric_code": "324"
+    },
+    {
+      "currency_name": "QUETZAL",
+      "currency_code": "GTQ",
+      "decimal_places": 2,
+      "numeric_code": "320"
+    },
+    {
+      "currency_name": "GUYANA DOLLAR",
+      "currency_code": "GYD",
+      "decimal_places": 2,
+      "numeric_code": "328"
+    },
+    {
+      "currency_name": "HONG-KONG DOLLAR",
+      "currency_code": "HKD",
+      "decimal_places": 2,
+      "numeric_code": "344"
+    },
+    {
+      "currency_name": "LEMPIRA",
+      "currency_code": "HNL",
+      "decimal_places": 2,
+      "numeric_code": "340"
+    },
+    {
+      "currency_name": "GOURDE",
+      "currency_code": "HTG",
+      "decimal_places": 2,
+      "numeric_code": "332"
+    },
+    {
+      "currency_name": "FORINT",
+      "currency_code": "HUF",
+      "decimal_places": 2,
+      "numeric_code": "348"
+    },
+    {
+      "currency_name": "INDONESIAN RUPIAH",
+      "currency_code": "IDR",
+      "decimal_places": 2,
+      "numeric_code": "360"
+    },
+    {
+      "currency_name": "NEW SHEKEL",
+      "currency_code": "ILS",
+      "decimal_places": 2,
+      "numeric_code": "376"
+    },
+    {
+      "currency_name": "INDIAN RUPEE",
+      "currency_code": "INR",
+      "decimal_places": 2,
+      "numeric_code": "356"
+    },
+    {
+      "currency_name": "IRAQI DINAR",
+      "currency_code": "IQD",
+      "decimal_places": 2,
+      "numeric_code": "368"
+    },
+    {
+      "currency_name": "ICELAND KRONA",
+      "currency_code": "ISK",
+      "decimal_places": 2,
+      "numeric_code": "352"
+    },
+    {
+      "currency_name": "JAMAICAN DOLLAR",
+      "currency_code": "JMD",
+      "decimal_places": 2,
+      "numeric_code": "388"
+    },
+    {
+      "currency_name": "JORDANIAN DINAR",
+      "currency_code": "JOD",
+      "decimal_places": 2,
+      "numeric_code": "400"
+    },
+    {
+      "currency_name": "JAPANESE YEN",
+      "currency_code": "JPY",
+      "decimal_places": 2,
+      "numeric_code": "392"
+    },
+    {
+      "currency_name": "KENYAN SHILLING",
+      "currency_code": "KES",
+      "decimal_places": 2,
+      "numeric_code": "404"
+    },
+    {
+      "currency_name": "KYRGYZSTAN SOM",
+      "currency_code": "KGS",
+      "decimal_places": 2,
+      "numeric_code": "417"
+    },
+    {
+      "currency_name": "RIEL",
+      "currency_code": "KHR",
+      "decimal_places": 2,
+      "numeric_code": "116"
+    },
+    {
+      "currency_name": "COMOROS FRANC",
+      "currency_code": "KMF",
+      "decimal_places": 2,
+      "numeric_code": "174"
+    },
+    {
+      "currency_name": "S. KOREAN WON",
+      "currency_code": "KRW",
+      "decimal_places": 2,
+      "numeric_code": "410"
+    },
+    {
+      "currency_name": "KUWAITI DINAR",
+      "currency_code": "KWD",
+      "decimal_places": 2,
+      "numeric_code": "414"
+    },
+    {
+      "currency_name": "CAYMAN ISL DOLLAR",
+      "currency_code": "KYD",
+      "decimal_places": 2,
+      "numeric_code": "136"
+    },
+    {
+      "currency_name": "TENGE",
+      "currency_code": "KZT",
+      "decimal_places": 2,
+      "numeric_code": "398"
+    },
+    {
+      "currency_name": "KIP",
+      "currency_code": "LAK",
+      "decimal_places": 2,
+      "numeric_code": "418"
+    },
+    {
+      "currency_name": "LEBANESE POUND",
+      "currency_code": "LBP",
+      "decimal_places": 2,
+      "numeric_code": "422"
+    },
+    {
+      "currency_name": "SRI LANKA RUPEE",
+      "currency_code": "LKR",
+      "decimal_places": 2,
+      "numeric_code": "144"
+    },
+    {
+      "currency_name": "LIBERIA DOLLAR",
+      "currency_code": "LRD",
+      "decimal_places": 2,
+      "numeric_code": "430"
+    },
+    {
+      "currency_name": "LESOTHO LOTI",
+      "currency_code": "LSL",
+      "decimal_places": 2,
+      "numeric_code": "426"
+    },
+    {
+      "currency_name": "MOROCCAN DIRHAM",
+      "currency_code": "MAD",
+      "decimal_places": 2,
+      "numeric_code": "504"
+    },
+    {
+      "currency_name": "LEU",
+      "currency_code": "MDL",
+      "decimal_places": 2,
+      "numeric_code": "498"
+    },
+    {
+      "currency_name": "MALAGASY ARIARY",
+      "currency_code": "MGA",
+      "decimal_places": 2,
+      "numeric_code": "969"
+    },
+    {
+      "currency_name": "DENAR",
+      "currency_code": "MKD",
+      "decimal_places": 2,
+      "numeric_code": "807"
+    },
+    {
+      "currency_name": "TUGRIK",
+      "currency_code": "MNT",
+      "decimal_places": 2,
+      "numeric_code": "496"
+    },
+    {
+      "currency_name": "PATACA",
+      "currency_code": "MOP",
+      "decimal_places": 2,
+      "numeric_code": "446"
+    },
+    {
+      "currency_name": "MAURITIUS RUPEE",
+      "currency_code": "MUR",
+      "decimal_places": 2,
+      "numeric_code": "480"
+    },
+    {
+      "currency_name": "MALDIVE RUFIYAA",
+      "currency_code": "MVR",
+      "decimal_places": 2,
+      "numeric_code": "462"
+    },
+    {
+      "currency_name": "KWACHA",
+      "currency_code": "MWK",
+      "decimal_places": 2,
+      "numeric_code": "454"
+    },
+    {
+      "currency_name": "MEXICAN PESO",
+      "currency_code": "MXN",
+      "decimal_places": 2,
+      "numeric_code": "484"
+    },
+    {
+      "currency_name": "MALAYSIAN RINGITS",
+      "currency_code": "MYR",
+      "decimal_places": 2,
+      "numeric_code": "458"
+    },
+    {
+      "currency_name": "MOZAMBIQUE METICAL",
+      "currency_code": "MZN",
+      "decimal_places": 2,
+      "numeric_code": "943"
+    },
+    {
+      "currency_name": "DOLLAR",
+      "currency_code": "NAD",
+      "decimal_places": 2,
+      "numeric_code": "516"
+    },
+    {
+      "currency_name": "NAIRA",
+      "currency_code": "NGN",
+      "decimal_places": 2,
+      "numeric_code": "566"
+    },
+    {
+      "currency_name": "CORDOBA ORO",
+      "currency_code": "NIO",
+      "decimal_places": 2,
+      "numeric_code": "558"
+    },
+    {
+      "currency_name": "NORWEGIAN KRONE",
+      "currency_code": "NOK",
+      "decimal_places": 2,
+      "numeric_code": "578"
+    },
+    {
+      "currency_name": "NEPALESE RUPEE",
+      "currency_code": "NPR",
+      "decimal_places": 2,
+      "numeric_code": "524"
+    },
+    {
+      "currency_name": "NEW ZEALAND DOLLAR",
+      "currency_code": "NZD",
+      "decimal_places": 2,
+      "numeric_code": "554"
+    },
+    {
+      "currency_name": "RIAL",
+      "currency_code": "OMR",
+      "decimal_places": 2,
+      "numeric_code": "512"
+    },
+    {
+      "currency_name": "BALBOA",
+      "currency_code": "PAB",
+      "decimal_places": 2,
+      "numeric_code": "590"
+    },
+    {
+      "currency_name": "NUEVO SOL",
+      "currency_code": "PEN",
+      "decimal_places": 2,
+      "numeric_code": "604"
+    },
+    {
+      "currency_name": "KINA",
+      "currency_code": "PGK",
+      "decimal_places": 2,
+      "numeric_code": "598"
+    },
+    {
+      "currency_name": "PHILIPPINE PESO",
+      "currency_code": "PHP",
+      "decimal_places": 2,
+      "numeric_code": "608"
+    },
+    {
+      "currency_name": "PAKISTAN RUPEE",
+      "currency_code": "PKR",
+      "decimal_places": 2,
+      "numeric_code": "586"
+    },
+    {
+      "currency_name": "POLISH ZLOTY",
+      "currency_code": "PLN",
+      "decimal_places": 2,
+      "numeric_code": "985"
+    },
+    {
+      "currency_name": "GUARANI",
+      "currency_code": "PYG",
+      "decimal_places": 2,
+      "numeric_code": "600"
+    },
+    {
+      "currency_name": "QATARI RIYAL",
+      "currency_code": "QAR",
+      "decimal_places": 2,
+      "numeric_code": "634"
+    },
+    {
+      "currency_name": "ROMANIAN LEU",
+      "currency_code": "RON",
+      "decimal_places": 2,
+      "numeric_code": "946"
+    },
+    {
+      "currency_name": "SERBIAN DINAR",
+      "currency_code": "RSD",
+      "decimal_places": 2,
+      "numeric_code": "941"
+    },
+    {
+      "currency_name": "RWANDA FRANC",
+      "currency_code": "RWF",
+      "decimal_places": 2,
+      "numeric_code": "646"
+    },
+    {
+      "currency_name": "RIYAL",
+      "currency_code": "SAR",
+      "decimal_places": 2,
+      "numeric_code": "682"
+    },
+    {
+      "currency_name": "SOLOMON ISL DOLLAR",
+      "currency_code": "SBD",
+      "decimal_places": 2,
+      "numeric_code": "090"
+    },
+    {
+      "currency_name": "SEYCHELLES RUPEE",
+      "currency_code": "SCR",
+      "decimal_places": 2,
+      "numeric_code": "690"
+    },
+    {
+      "currency_name": "SWEDISH KRONA",
+      "currency_code": "SEK",
+      "decimal_places": 2,
+      "numeric_code": "752"
+    },
+    {
+      "currency_name": "SINGAPORE DOLLAR",
+      "currency_code": "SGD",
+      "decimal_places": 2,
+      "numeric_code": "702"
+    },
+    {
+      "currency_name": "ST. HELENA POUND",
+      "currency_code": "SHP",
+      "decimal_places": 2,
+      "numeric_code": "654"
+    },
+    {
+      "currency_name": "SIERRA LEONEAN LEONE",
+      "currency_code": "SLE",
+      "decimal_places": 2,
+      "numeric_code": "925"
+    },
+    {
+      "currency_name": "SOMALI SHILLING",
+      "currency_code": "SOS",
+      "decimal_places": 2,
+      "numeric_code": "706"
+    },
+    {
+      "currency_name": "SURINAME DOLLAR",
+      "currency_code": "SRD",
+      "decimal_places": 2,
+      "numeric_code": "968"
+    },
+    {
+      "currency_name": "DOBRA",
+      "currency_code": "STD",
+      "decimal_places": 2,
+      "numeric_code": "678"
+    },
+    {
+      "currency_name": "EL SALVADOR COLON",
+      "currency_code": "SVC",
+      "decimal_places": 2,
+      "numeric_code": "222"
+    },
+    {
+      "currency_name": "LILANGENI",
+      "currency_code": "SZL",
+      "decimal_places": 2,
+      "numeric_code": "748"
+    },
+    {
+      "currency_name": "BAHT",
+      "currency_code": "THB",
+      "decimal_places": 2,
+      "numeric_code": "764"
+    },
+    {
+      "currency_name": "TAJIKISTAN SOMONI",
+      "currency_code": "TJS",
+      "decimal_places": 2,
+      "numeric_code": "972"
+    },
+    {
+      "currency_name": "MANAT",
+      "currency_code": "TMT",
+      "decimal_places": 2,
+      "numeric_code": "934"
+    },
+    {
+      "currency_name": "TUNISIAN DINAR",
+      "currency_code": "TND",
+      "decimal_places": 2,
+      "numeric_code": "788"
+    },
+    {
+      "currency_name": "PA ANGA",
+      "currency_code": "TOP",
+      "decimal_places": 2,
+      "numeric_code": "776"
+    },
+    {
+      "currency_name": "TURKISH LIRA",
+      "currency_code": "TRY",
+      "decimal_places": 2,
+      "numeric_code": "949"
+    },
+    {
+      "currency_name": "TRIN. \u0026 TOB. DOLLAR",
+      "currency_code": "TTD",
+      "decimal_places": 2,
+      "numeric_code": "780"
+    },
+    {
+      "currency_name": "NEW TAIWAN DOLLAR",
+      "currency_code": "TWD",
+      "decimal_places": 2,
+      "numeric_code": "901"
+    },
+    {
+      "currency_name": "TANZANIAN SHILLING",
+      "currency_code": "TZS",
+      "decimal_places": 2,
+      "numeric_code": "834"
+    },
+    {
+      "currency_name": "UGANDA SHILLING",
+      "currency_code": "UGX",
+      "decimal_places": 2,
+      "numeric_code": "800"
+    },
+    {
+      "currency_name": "US DOLLAR",
+      "currency_code": "USD",
+      "decimal_places": 2,
+      "numeric_code": "840"
+    },
+    {
+      "currency_name": "PESO URUGUAYO",
+      "currency_code": "UYU",
+      "decimal_places": 2,
+      "numeric_code": "858"
+    },
+    {
+      "currency_name": "UZBEKISTAN SUM",
+      "currency_code": "UZS",
+      "decimal_places": 2,
+      "numeric_code": "860"
+    },
+    {
+      "currency_name": "DONG",
+      "currency_code": "VND",
+      "decimal_places": 2,
+      "numeric_code": "704"
+    },
+    {
+      "currency_name": "VATU",
+      "currency_code": "VUV",
+      "decimal_places": 2,
+      "numeric_code": "548"
+    },
+    {
+      "currency_name": "TALA",
+      "currency_code": "WST",
+      "decimal_places": 2,
+      "numeric_code": "882"
+    },
+    {
+      "currency_name": "C.F.A. FRANC BEAC",
+      "currency_code": "XAF",
+      "decimal_places": 2,
+      "numeric_code": "950"
+    },
+    {
+      "currency_name": "E. CARIBBEAN D LR",
+      "currency_code": "XCD",
+      "decimal_places": 2,
+      "numeric_code": "951"
+    },
+    {
+      "currency_name": "C.F.A. FRANC BCEAO",
+      "currency_code": "XOF",
+      "decimal_places": 2,
+      "numeric_code": "952"
+    },
+    {
+      "currency_name": "C.F.A. FRANC",
+      "currency_code": "XPF",
+      "decimal_places": 2,
+      "numeric_code": "953"
+    },
+    {
+      "currency_name": "YEMENI RIAL",
+      "currency_code": "YER",
+      "decimal_places": 2,
+      "numeric_code": "886"
+    },
+    {
+      "currency_name": "RAND",
+      "currency_code": "ZAR",
+      "decimal_places": 2,
+      "numeric_code": "710"
+    },
+    {
+      "currency_name": "ZAMBIAN KWACHA",
+      "currency_code": "ZMW",
+      "decimal_places": 2,
+      "numeric_code": "967"
+    }
+  ],
+  "onboard": [
+    {
+      "currency_name": "UAE DIRHAM",
+      "currency_code": "AED",
+      "decimal_places": 2,
+      "numeric_code": "784"
+    },
+    {
+      "currency_name": "NEW AFGHANI",
+      "currency_code": "AFN",
+      "decimal_places": 2,
+      "numeric_code": "971"
+    },
+    {
+      "currency_name": "LEK",
+      "currency_code": "ALL",
+      "decimal_places": 2,
+      "numeric_code": "008"
+    },
+    {
+      "currency_name": "DRAM",
+      "currency_code": "AMD",
+      "decimal_places": 2,
+      "numeric_code": "051"
+    },
+    {
+      "currency_name": "NETH. ANT. GUILDER",
+      "currency_code": "ANG",
+      "decimal_places": 2,
+      "numeric_code": "532"
+    },
+    {
+      "currency_name": "AUSTRALIAN DOLLAR",
+      "currency_code": "AUD",
+      "decimal_places": 2,
+      "numeric_code": "036"
+    },
+    {
+      "currency_name": "GUILDER",
+      "currency_code": "AWG",
+      "decimal_places": 2,
+      "numeric_code": "533"
+    },
+    {
+      "currency_name": "AZERBAIJANIAN MANAT",
+      "currency_code": "AZN",
+      "decimal_places": 2,
+      "numeric_code": "944"
+    },
+    {
+      "currency_name": "CONVERTIBLE MARK",
+      "currency_code": "BAM",
+      "decimal_places": 2,
+      "numeric_code": "977"
+    },
+    {
+      "currency_name": "BARBADOS DOLLAR",
+      "currency_code": "BBD",
+      "decimal_places": 2,
+      "numeric_code": "052"
+    },
+    {
+      "currency_name": "TAKA",
+      "currency_code": "BDT",
+      "decimal_places": 2,
+      "numeric_code": "050"
+    },
+    {
+      "currency_name": "NEW BULGARIAN LEV",
+      "currency_code": "BGN",
+      "decimal_places": 2,
+      "numeric_code": "975"
+    },
+    {
+      "currency_name": "BAHRAINI DINAR",
+      "currency_code": "BHD",
+      "decimal_places": 2,
+      "numeric_code": "048"
+    },
+    {
+      "currency_name": "BURUNDI FRANC",
+      "currency_code": "BIF",
+      "decimal_places": 2,
+      "numeric_code": "108"
+    },
+    {
+      "currency_name": "BERMUDAN DOLLAR",
+      "currency_code": "BMD",
+      "decimal_places": 2,
+      "numeric_code": "060"
+    },
+    {
+      "currency_name": "BRUNEI DOLLAR",
+      "currency_code": "BND",
+      "decimal_places": 2,
+      "numeric_code": "096"
+    },
+    {
+      "currency_name": "BOLIVIAN",
+      "currency_code": "BOB",
+      "decimal_places": 2,
+      "numeric_code": "068"
+    },
+    {
+      "currency_name": "REAL",
+      "currency_code": "BRL",
+      "decimal_places": 2,
+      "numeric_code": "986"
+    },
+    {
+      "currency_name": "BAHAMIAN DOLLAR",
+      "currency_code": "BSD",
+      "decimal_places": 2,
+      "numeric_code": "044"
+    },
+    {
+      "currency_name": "BHUTANESE NGULTRUM",
+      "currency_code": "BTN",
+      "decimal_places": 2,
+      "numeric_code": "064"
+    },
+    {
+      "currency_name": "PULA",
+      "currency_code": "BWP",
+      "decimal_places": 2,
+      "numeric_code": "072"
+    },
+    {
+      "currency_name": "BELIZE DOLLAR",
+      "currency_code": "BZD",
+      "decimal_places": 2,
+      "numeric_code": "084"
+    },
+    {
+      "currency_name": "CANADIAN DOLLAR",
+      "currency_code": "CAD",
+      "decimal_places": 2,
+      "numeric_code": "124"
+    },
+    {
+      "currency_name": "CONGOLESE FRANC",
+      "currency_code": "CDF",
+      "decimal_places": 2,
+      "numeric_code": "976"
+    },
+    {
+      "currency_name": "SWISS FRANC",
+      "currency_code": "CHF",
+      "decimal_places": 2,
+      "numeric_code": "756"
+    },
+    {
+      "currency_name": "CHILEAN PESO",
+      "currency_code": "CLP",
+      "decimal_places": 2,
+      "numeric_code": "152"
+    },
+    {
+      "currency_name": "OFFSHORE RENMINBI",
+      "currency_code": "CNH",
+      "decimal_places": 2,
+      "numeric_code": "157"
+    },
+    {
+      "currency_name": "COLOMBIAN PESO",
+      "currency_code": "COP",
+      "decimal_places": 2,
+      "numeric_code": "170"
+    },
+    {
+      "currency_name": "COLON",
+      "currency_code": "CRC",
+      "decimal_places": 2,
+      "numeric_code": "188"
+    },
+    {
+      "currency_name": "ESCUDO",
+      "currency_code": "CVE",
+      "decimal_places": 2,
+      "numeric_code": "132"
+    },
+    {
+      "currency_name": "CZECH KORUNA",
+      "currency_code": "CZK",
+      "decimal_places": 2,
+      "numeric_code": "203"
+    },
+    {
+      "currency_name": "DJIBOUTI FRANC",
+      "currency_code": "DJF",
+      "decimal_places": 2,
+      "numeric_code": "262"
+    },
+    {
+      "currency_name": "DANISH KRONE",
+      "currency_code": "DKK",
+      "decimal_places": 2,
+      "numeric_code": "208"
+    },
+    {
+      "currency_name": "DOMINICAN PESO",
+      "currency_code": "DOP",
+      "decimal_places": 2,
+      "numeric_code": "214"
+    },
+    {
+      "currency_name": "EGYPTIAN POUND",
+      "currency_code": "EGP",
+      "decimal_places": 2,
+      "numeric_code": "818"
+    },
+    {
+      "currency_name": "ETHIOPIAN BIRR",
+      "currency_code": "ETB",
+      "decimal_places": 2,
+      "numeric_code": "230"
+    },
+    {
+      "currency_name": "EURO",
+      "currency_code": "EUR",
+      "decimal_places": 2,
+      "numeric_code": "978"
+    },
+    {
+      "currency_name": "FIJI DOLLAR",
+      "currency_code": "FJD",
+      "decimal_places": 2,
+      "numeric_code": "242"
+    },
+    {
+      "currency_name": "FALKLAND ISL POUND",
+      "currency_code": "FKP",
+      "decimal_places": 2,
+      "numeric_code": "238"
+    },
+    {
+      "currency_name": "BRITISH POUND STERLING",
+      "currency_code": "GBP",
+      "decimal_places": 2,
+      "numeric_code": "826"
+    },
+    {
+      "currency_name": "LARI",
+      "currency_code": "GEL",
+      "decimal_places": 2,
+      "numeric_code": "981"
+    },
+    {
+      "currency_name": "GHANA CEDI",
+      "currency_code": "GHS",
+      "decimal_places": 2,
+      "numeric_code": "936"
+    },
+    {
+      "currency_name": "GIBRALTAR POUND",
+      "currency_code": "GIP",
+      "decimal_places": 2,
+      "numeric_code": "292"
+    },
+    {
+      "currency_name": "DA LASI",
+      "currency_code": "GMD",
+      "decimal_places": 2,
+      "numeric_code": "270"
+    },
+    {
+      "currency_name": "GUINEA FRANC",
+      "currency_code": "GNF",
+      "decimal_places": 2,
+      "numeric_code": "324"
+    },
+    {
+      "currency_name": "QUETZAL",
+      "currency_code": "GTQ",
+      "decimal_places": 2,
+      "numeric_code": "320"
+    },
+    {
+      "currency_name": "GUYANA DOLLAR",
+      "currency_code": "GYD",
+      "decimal_places": 2,
+      "numeric_code": "328"
+    },
+    {
+      "currency_name": "HONG-KONG DOLLAR",
+      "currency_code": "HKD",
+      "decimal_places": 2,
+      "numeric_code": "344"
+    },
+    {
+      "currency_name": "LEMPIRA",
+      "currency_code": "HNL",
+      "decimal_places": 2,
+      "numeric_code": "340"
+    },
+    {
+      "currency_name": "GOURDE",
+      "currency_code": "HTG",
+      "decimal_places": 2,
+      "numeric_code": "332"
+    },
+    {
+      "currency_name": "FORINT",
+      "currency_code": "HUF",
+      "decimal_places": 2,
+      "numeric_code": "348"
+    },
+    {
+      "currency_name": "INDONESIAN RUPIAH",
+      "currency_code": "IDR",
+      "decimal_places": 2,
+      "numeric_code": "360"
+    },
+    {
+      "currency_name": "NEW SHEKEL",
+      "currency_code": "ILS",
+      "decimal_places": 2,
+      "numeric_code": "376"
+    },
+    {
+      "currency_name": "INDIAN RUPEE",
+      "currency_code": "INR",
+      "decimal_places": 2,
+      "numeric_code": "356"
+    },
+    {
+      "currency_name": "IRAQI DINAR",
+      "currency_code": "IQD",
+      "decimal_places": 2,
+      "numeric_code": "368"
+    },
+    {
+      "currency_name": "ICELAND KRONA",
+      "currency_code": "ISK",
+      "decimal_places": 2,
+      "numeric_code": "352"
+    },
+    {
+      "currency_name": "JAMAICAN DOLLAR",
+      "currency_code": "JMD",
+      "decimal_places": 2,
+      "numeric_code": "388"
+    },
+    {
+      "currency_name": "JORDANIAN DINAR",
+      "currency_code": "JOD",
+      "decimal_places": 2,
+      "numeric_code": "400"
+    },
+    {
+      "currency_name": "JAPANESE YEN",
+      "currency_code": "JPY",
+      "decimal_places": 2,
+      "numeric_code": "392"
+    },
+    {
+      "currency_name": "KENYAN SHILLING",
+      "currency_code": "KES",
+      "decimal_places": 2,
+      "numeric_code": "404"
+    },
+    {
+      "currency_name": "KYRGYZSTAN SOM",
+      "currency_code": "KGS",
+      "decimal_places": 2,
+      "numeric_code": "417"
+    },
+    {
+      "currency_name": "RIEL",
+      "currency_code": "KHR",
+      "decimal_places": 2,
+      "numeric_code": "116"
+    },
+    {
+      "currency_name": "COMOROS FRANC",
+      "currency_code": "KMF",
+      "decimal_places": 2,
+      "numeric_code": "174"
+    },
+    {
+      "currency_name": "S. KOREAN WON",
+      "currency_code": "KRW",
+      "decimal_places": 2,
+      "numeric_code": "410"
+    },
+    {
+      "currency_name": "KUWAITI DINAR",
+      "currency_code": "KWD",
+      "decimal_places": 2,
+      "numeric_code": "414"
+    },
+    {
+      "currency_name": "CAYMAN ISL DOLLAR",
+      "currency_code": "KYD",
+      "decimal_places": 2,
+      "numeric_code": "136"
+    },
+    {
+      "currency_name": "TENGE",
+      "currency_code": "KZT",
+      "decimal_places": 2,
+      "numeric_code": "398"
+    },
+    {
+      "currency_name": "KIP",
+      "currency_code": "LAK",
+      "decimal_places": 2,
+      "numeric_code": "418"
+    },
+    {
+      "currency_name": "LEBANESE POUND",
+      "currency_code": "LBP",
+      "decimal_places": 2,
+      "numeric_code": "422"
+    },
+    {
+      "currency_name": "SRI LANKA RUPEE",
+      "currency_code": "LKR",
+      "decimal_places": 2,
+      "numeric_code": "144"
+    },
+    {
+      "currency_name": "LIBERIA DOLLAR",
+      "currency_code": "LRD",
+      "decimal_places": 2,
+      "numeric_code": "430"
+    },
+    {
+      "currency_name": "LESOTHO LOTI",
+      "currency_code": "LSL",
+      "decimal_places": 2,
+      "numeric_code": "426"
+    },
+    {
+      "currency_name": "MOROCCAN DIRHAM",
+      "currency_code": "MAD",
+      "decimal_places": 2,
+      "numeric_code": "504"
+    },
+    {
+      "currency_name": "LEU",
+      "currency_code": "MDL",
+      "decimal_places": 2,
+      "numeric_code": "498"
+    },
+    {
+      "currency_name": "MALAGASY ARIARY",
+      "currency_code": "MGA",
+      "decimal_places": 2,
+      "numeric_code": "969"
+    },
+    {
+      "currency_name": "DENAR",
+      "currency_code": "MKD",
+      "decimal_places": 2,
+      "numeric_code": "807"
+    },
+    {
+      "currency_name": "TUGRIK",
+      "currency_code": "MNT",
+      "decimal_places": 2,
+      "numeric_code": "496"
+    },
+    {
+      "currency_name": "PATACA",
+      "currency_code": "MOP",
+      "decimal_places": 2,
+      "numeric_code": "446"
+    },
+    {
+      "currency_name": "MAURITIUS RUPEE",
+      "currency_code": "MUR",
+      "decimal_places": 2,
+      "numeric_code": "480"
+    },
+    {
+      "currency_name": "MALDIVE RUFIYAA",
+      "currency_code": "MVR",
+      "decimal_places": 2,
+      "numeric_code": "462"
+    },
+    {
+      "currency_name": "KWACHA",
+      "currency_code": "MWK",
+      "decimal_places": 2,
+      "numeric_code": "454"
+    },
+    {
+      "currency_name": "MEXICAN PESO",
+      "currency_code": "MXN",
+      "decimal_places": 2,
+      "numeric_code": "484"
+    },
+    {
+      "currency_name": "MALAYSIAN RINGITS",
+      "currency_code": "MYR",
+      "decimal_places": 2,
+      "numeric_code": "458"
+    },
+    {
+      "currency_name": "MOZAMBIQUE METICAL",
+      "currency_code": "MZN",
+      "decimal_places": 2,
+      "numeric_code": "943"
+    },
+    {
+      "currency_name": "DOLLAR",
+      "currency_code": "NAD",
+      "decimal_places": 2,
+      "numeric_code": "516"
+    },
+    {
+      "currency_name": "NAIRA",
+      "currency_code": "NGN",
+      "decimal_places": 2,
+      "numeric_code": "566"
+    },
+    {
+      "currency_name": "CORDOBA ORO",
+      "currency_code": "NIO",
+      "decimal_places": 2,
+      "numeric_code": "558"
+    },
+    {
+      "currency_name": "NORWEGIAN KRONE",
+      "currency_code": "NOK",
+      "decimal_places": 2,
+      "numeric_code": "578"
+    },
+    {
+      "currency_name": "NEPALESE RUPEE",
+      "currency_code": "NPR",
+      "decimal_places": 2,
+      "numeric_code": "524"
+    },
+    {
+      "currency_name": "NEW ZEALAND DOLLAR",
+      "currency_code": "NZD",
+      "decimal_places": 2,
+      "numeric_code": "554"
+    },
+    {
+      "currency_name": "RIAL",
+      "currency_code": "OMR",
+      "decimal_places": 2,
+      "numeric_code": "512"
+    },
+    {
+      "currency_name": "BALBOA",
+      "currency_code": "PAB",
+      "decimal_places": 2,
+      "numeric_code": "590"
+    },
+    {
+      "currency_name": "NUEVO SOL",
+      "currency_code": "PEN",
+      "decimal_places": 2,
+      "numeric_code": "604"
+    },
+    {
+      "currency_name": "KINA",
+      "currency_code": "PGK",
+      "decimal_places": 2,
+      "numeric_code": "598"
+    },
+    {
+      "currency_name": "PHILIPPINE PESO",
+      "currency_code": "PHP",
+      "decimal_places": 2,
+      "numeric_code": "608"
+    },
+    {
+      "currency_name": "PAKISTAN RUPEE",
+      "currency_code": "PKR",
+      "decimal_places": 2,
+      "numeric_code": "586"
+    },
+    {
+      "currency_name": "POLISH ZLOTY",
+      "currency_code": "PLN",
+      "decimal_places": 2,
+      "numeric_code": "985"
+    },
+    {
+      "currency_name": "GUARANI",
+      "currency_code": "PYG",
+      "decimal_places": 2,
+      "numeric_code": "600"
+    },
+    {
+      "currency_name": "QATARI RIYAL",
+      "currency_code": "QAR",
+      "decimal_places": 2,
+      "numeric_code": "634"
+    },
+    {
+      "currency_name": "ROMANIAN LEU",
+      "currency_code": "RON",
+      "decimal_places": 2,
+      "numeric_code": "946"
+    },
+    {
+      "currency_name": "SERBIAN DINAR",
+      "currency_code": "RSD",
+      "decimal_places": 2,
+      "numeric_code": "941"
+    },
+    {
+      "currency_name": "RWANDA FRANC",
+      "currency_code": "RWF",
+      "decimal_places": 2,
+      "numeric_code": "646"
+    },
+    {
+      "currency_name": "RIYAL",
+      "currency_code": "SAR",
+      "decimal_places": 2,
+      "numeric_code": "682"
+    },
+    {
+      "currency_name": "SOLOMON ISL DOLLAR",
+      "currency_code": "SBD",
+      "decimal_places": 2,
+      "numeric_code": "090"
+    },
+    {
+      "currency_name": "SEYCHELLES RUPEE",
+      "currency_code": "SCR",
+      "decimal_places": 2,
+      "numeric_code": "690"
+    },
+    {
+      "currency_name": "SWEDISH KRONA",
+      "currency_code": "SEK",
+      "decimal_places": 2,
+      "numeric_code": "752"
+    },
+    {
+      "currency_name": "SINGAPORE DOLLAR",
+      "currency_code": "SGD",
+      "decimal_places": 2,
+      "numeric_code": "702"
+    },
+    {
+      "currency_name": "ST. HELENA POUND",
+      "currency_code": "SHP",
+      "decimal_places": 2,
+      "numeric_code": "654"
+    },
+    {
+      "currency_name": "SIERRA LEONEAN LEONE",
+      "currency_code": "SLE",
+      "decimal_places": 2,
+      "numeric_code": "925"
+    },
+    {
+      "currency_name": "SOMALI SHILLING",
+      "currency_code": "SOS",
+      "decimal_places": 2,
+      "numeric_code": "706"
+    },
+    {
+      "currency_name": "SURINAME DOLLAR",
+      "currency_code": "SRD",
+      "decimal_places": 2,
+      "numeric_code": "968"
+    },
+    {
+      "currency_name": "DOBRA",
+      "currency_code": "STD",
+      "decimal_places": 2,
+      "numeric_code": "678"
+    },
+    {
+      "currency_name": "EL SALVADOR COLON",
+      "currency_code": "SVC",
+      "decimal_places": 2,
+      "numeric_code": "222"
+    },
+    {
+      "currency_name": "LILANGENI",
+      "currency_code": "SZL",
+      "decimal_places": 2,
+      "numeric_code": "748"
+    },
+    {
+      "currency_name": "BAHT",
+      "currency_code": "THB",
+      "decimal_places": 2,
+      "numeric_code": "764"
+    },
+    {
+      "currency_name": "TAJIKISTAN SOMONI",
+      "currency_code": "TJS",
+      "decimal_places": 2,
+      "numeric_code": "972"
+    },
+    {
+      "currency_name": "MANAT",
+      "currency_code": "TMT",
+      "decimal_places": 2,
+      "numeric_code": "934"
+    },
+    {
+      "currency_name": "TUNISIAN DINAR",
+      "currency_code": "TND",
+      "decimal_places": 2,
+      "numeric_code": "788"
+    },
+    {
+      "currency_name": "PA ANGA",
+      "currency_code": "TOP",
+      "decimal_places": 2,
+      "numeric_code": "776"
+    },
+    {
+      "currency_name": "TURKISH LIRA",
+      "currency_code": "TRY",
+      "decimal_places": 2,
+      "numeric_code": "949"
+    },
+    {
+      "currency_name": "TRIN. \u0026 TOB. DOLLAR",
+      "currency_code": "TTD",
+      "decimal_places": 2,
+      "numeric_code": "780"
+    },
+    {
+      "currency_name": "NEW TAIWAN DOLLAR",
+      "currency_code": "TWD",
+      "decimal_places": 2,
+      "numeric_code": "901"
+    },
+    {
+      "currency_name": "TANZANIAN SHILLING",
+      "currency_code": "TZS",
+      "decimal_places": 2,
+      "numeric_code": "834"
+    },
+    {
+      "currency_name": "UGANDA SHILLING",
+      "currency_code": "UGX",
+      "decimal_places": 2,
+      "numeric_code": "800"
+    },
+    {
+      "currency_name": "US DOLLAR",
+      "currency_code": "USD",
+      "decimal_places": 2,
+      "numeric_code": "840"
+    },
+    {
+      "currency_name": "PESO URUGUAYO",
+      "currency_code": "UYU",
+      "decimal_places": 2,
+      "numeric_code": "858"
+    },
+    {
+      "currency_name": "UZBEKISTAN SUM",
+      "currency_code": "UZS",
+      "decimal_places": 2,
+      "numeric_code": "860"
+    },
+    {
+      "currency_name": "DONG",
+      "currency_code": "VND",
+      "decimal_places": 2,
+      "numeric_code": "704"
+    },
+    {
+      "currency_name": "VATU",
+      "currency_code": "VUV",
+      "decimal_places": 2,
+      "numeric_code": "548"
+    },
+    {
+      "currency_name": "TALA",
+      "currency_code": "WST",
+      "decimal_places": 2,
+      "numeric_code": "882"
+    },
+    {
+      "currency_name": "C.F.A. FRANC BEAC",
+      "currency_code": "XAF",
+      "decimal_places": 2,
+      "numeric_code": "950"
+    },
+    {
+      "currency_name": "E. CARIBBEAN D LR",
+      "currency_code": "XCD",
+      "decimal_places": 2,
+      "numeric_code": "951"
+    },
+    {
+      "currency_name": "C.F.A. FRANC BCEAO",
+      "currency_code": "XOF",
+      "decimal_places": 2,
+      "numeric_code": "952"
+    },
+    {
+      "currency_name": "C.F.A. FRANC",
+      "currency_code": "XPF",
+      "decimal_places": 2,
+      "numeric_code": "953"
+    },
+    {
+      "currency_name": "YEMENI RIAL",
+      "currency_code": "YER",
+      "decimal_places": 2,
+      "numeric_code": "886"
+    },
+    {
+      "currency_name": "RAND",
+      "currency_code": "ZAR",
+      "decimal_places": 2,
+      "numeric_code": "710"
+    },
+    {
+      "currency_name": "ZAMBIAN KWACHA",
+      "currency_code": "ZMW",
+      "decimal_places": 2,
+      "numeric_code": "967"
+    }
+  ],
+  "payout": [
+    {
+      "currency_name": "UAE DIRHAM",
+      "currency_code": "AED",
+      "decimal_places": 2,
+      "numeric_code": "784"
+    },
+    {
+      "currency_name": "NEW AFGHANI",
+      "currency_code": "AFN",
+      "decimal_places": 2,
+      "numeric_code": "971"
+    },
+    {
+      "currency_name": "LEK",
+      "currency_code": "ALL",
+      "decimal_places": 2,
+      "numeric_code": "008"
+    },
+    {
+      "currency_name": "DRAM",
+      "currency_code": "AMD",
+      "decimal_places": 2,
+      "numeric_code": "051"
+    },
+    {
+      "currency_name": "NETH. ANT. GUILDER",
+      "currency_code": "ANG",
+      "decimal_places": 2,
+      "numeric_code": "532"
+    },
+    {
+      "currency_name": "AUSTRALIAN DOLLAR",
+      "currency_code": "AUD",
+      "decimal_places": 2,
+      "numeric_code": "036"
+    },
+    {
+      "currency_name": "GUILDER",
+      "currency_code": "AWG",
+      "decimal_places": 2,
+      "numeric_code": "533"
+    },
+    {
+      "currency_name": "AZERBAIJANIAN MANAT",
+      "currency_code": "AZN",
+      "decimal_places": 2,
+      "numeric_code": "944"
+    },
+    {
+      "currency_name": "CONVERTIBLE MARK",
+      "currency_code": "BAM",
+      "decimal_places": 2,
+      "numeric_code": "977"
+    },
+    {
+      "currency_name": "BARBADOS DOLLAR",
+      "currency_code": "BBD",
+      "decimal_places": 2,
+      "numeric_code": "052"
+    },
+    {
+      "currency_name": "TAKA",
+      "currency_code": "BDT",
+      "decimal_places": 2,
+      "numeric_code": "050"
+    },
+    {
+      "currency_name": "NEW BULGARIAN LEV",
+      "currency_code": "BGN",
+      "decimal_places": 2,
+      "numeric_code": "975"
+    },
+    {
+      "currency_name": "BAHRAINI DINAR",
+      "currency_code": "BHD",
+      "decimal_places": 2,
+      "numeric_code": "048"
+    },
+    {
+      "currency_name": "BURUNDI FRANC",
+      "currency_code": "BIF",
+      "decimal_places": 2,
+      "numeric_code": "108"
+    },
+    {
+      "currency_name": "BERMUDAN DOLLAR",
+      "currency_code": "BMD",
+      "decimal_places": 2,
+      "numeric_code": "060"
+    },
+    {
+      "currency_name": "BRUNEI DOLLAR",
+      "currency_code": "BND",
+      "decimal_places": 2,
+      "numeric_code": "096"
+    },
+    {
+      "currency_name": "BOLIVIAN",
+      "currency_code": "BOB",
+      "decimal_places": 2,
+      "numeric_code": "068"
+    },
+    {
+      "currency_name": "REAL",
+      "currency_code": "BRL",
+      "decimal_places": 2,
+      "numeric_code": "986"
+    },
+    {
+      "currency_name": "BAHAMIAN DOLLAR",
+      "currency_code": "BSD",
+      "decimal_places": 2,
+      "numeric_code": "044"
+    },
+    {
+      "currency_name": "BHUTANESE NGULTRUM",
+      "currency_code": "BTN",
+      "decimal_places": 2,
+      "numeric_code": "064"
+    },
+    {
+      "currency_name": "PULA",
+      "currency_code": "BWP",
+      "decimal_places": 2,
+      "numeric_code": "072"
+    },
+    {
+      "currency_name": "BELIZE DOLLAR",
+      "currency_code": "BZD",
+      "decimal_places": 2,
+      "numeric_code": "084"
+    },
+    {
+      "currency_name": "CANADIAN DOLLAR",
+      "currency_code": "CAD",
+      "decimal_places": 2,
+      "numeric_code": "124"
+    },
+    {
+      "currency_name": "CONGOLESE FRANC",
+      "currency_code": "CDF",
+      "decimal_places": 2,
+      "numeric_code": "976"
+    },
+    {
+      "currency_name": "SWISS FRANC",
+      "currency_code": "CHF",
+      "decimal_places": 2,
+      "numeric_code": "756"
+    },
+    {
+      "currency_name": "CHILEAN PESO",
+      "currency_code": "CLP",
+      "decimal_places": 2,
+      "numeric_code": "152"
+    },
+    {
+      "currency_name": "OFFSHORE RENMINBI",
+      "currency_code": "CNH",
+      "decimal_places": 2,
+      "numeric_code": "157"
+    },
+    {
+      "currency_name": "COLOMBIAN PESO",
+      "currency_code": "COP",
+      "decimal_places": 2,
+      "numeric_code": "170"
+    },
+    {
+      "currency_name": "COLON",
+      "currency_code": "CRC",
+      "decimal_places": 2,
+      "numeric_code": "188"
+    },
+    {
+      "currency_name": "ESCUDO",
+      "currency_code": "CVE",
+      "decimal_places": 2,
+      "numeric_code": "132"
+    },
+    {
+      "currency_name": "CZECH KORUNA",
+      "currency_code": "CZK",
+      "decimal_places": 2,
+      "numeric_code": "203"
+    },
+    {
+      "currency_name": "DJIBOUTI FRANC",
+      "currency_code": "DJF",
+      "decimal_places": 2,
+      "numeric_code": "262"
+    },
+    {
+      "currency_name": "DANISH KRONE",
+      "currency_code": "DKK",
+      "decimal_places": 2,
+      "numeric_code": "208"
+    },
+    {
+      "currency_name": "DOMINICAN PESO",
+      "currency_code": "DOP",
+      "decimal_places": 2,
+      "numeric_code": "214"
+    },
+    {
+      "currency_name": "EGYPTIAN POUND",
+      "currency_code": "EGP",
+      "decimal_places": 2,
+      "numeric_code": "818"
+    },
+    {
+      "currency_name": "ETHIOPIAN BIRR",
+      "currency_code": "ETB",
+      "decimal_places": 2,
+      "numeric_code": "230"
+    },
+    {
+      "currency_name": "EURO",
+      "currency_code": "EUR",
+      "decimal_places": 2,
+      "numeric_code": "978"
+    },
+    {
+      "currency_name": "FIJI DOLLAR",
+      "currency_code": "FJD",
+      "decimal_places": 2,
+      "numeric_code": "242"
+    },
+    {
+      "currency_name": "FALKLAND ISL POUND",
+      "currency_code": "FKP",
+      "decimal_places": 2,
+      "numeric_code": "238"
+    },
+    {
+      "currency_name": "BRITISH POUND STERLING",
+      "currency_code": "GBP",
+      "decimal_places": 2,
+      "numeric_code": "826"
+    },
+    {
+      "currency_name": "LARI",
+      "currency_code": "GEL",
+      "decimal_places": 2,
+      "numeric_code": "981"
+    },
+    {
+      "currency_name": "GHANA CEDI",
+      "currency_code": "GHS",
+      "decimal_places": 2,
+      "numeric_code": "936"
+    },
+    {
+      "currency_name": "GIBRALTAR POUND",
+      "currency_code": "GIP",
+      "decimal_places": 2,
+      "numeric_code": "292"
+    },
+    {
+      "currency_name": "DA LASI",
+      "currency_code": "GMD",
+      "decimal_places": 2,
+      "numeric_code": "270"
+    },
+    {
+      "currency_name": "GUINEA FRANC",
+      "currency_code": "GNF",
+      "decimal_places": 2,
+      "numeric_code": "324"
+    },
+    {
+      "currency_name": "QUETZAL",
+      "currency_code": "GTQ",
+      "decimal_places": 2,
+      "numeric_code": "320"
+    },
+    {
+      "currency_name": "GUYANA DOLLAR",
+      "currency_code": "GYD",
+      "decimal_places": 2,
+      "numeric_code": "328"
+    },
+    {
+      "currency_name": "HONG-KONG DOLLAR",
+      "currency_code": "HKD",
+      "decimal_places": 2,
+      "numeric_code": "344"
+    },
+    {
+      "currency_name": "LEMPIRA",
+      "currency_code": "HNL",
+      "decimal_places": 2,
+      "numeric_code": "340"
+    },
+    {
+      "currency_name": "GOURDE",
+      "currency_code": "HTG",
+      "decimal_places": 2,
+      "numeric_code": "332"
+    },
+    {
+      "currency_name": "FORINT",
+      "currency_code": "HUF",
+      "decimal_places": 2,
+      "numeric_code": "348"
+    },
+    {
+      "currency_name": "INDONESIAN RUPIAH",
+      "currency_code": "IDR",
+      "decimal_places": 2,
+      "numeric_code": "360"
+    },
+    {
+      "currency_name": "NEW SHEKEL",
+      "currency_code": "ILS",
+      "decimal_places": 2,
+      "numeric_code": "376"
+    },
+    {
+      "currency_name": "INDIAN RUPEE",
+      "currency_code": "INR",
+      "decimal_places": 2,
+      "numeric_code": "356"
+    },
+    {
+      "currency_name": "IRAQI DINAR",
+      "currency_code": "IQD",
+      "decimal_places": 2,
+      "numeric_code": "368"
+    },
+    {
+      "currency_name": "ICELAND KRONA",
+      "currency_code": "ISK",
+      "decimal_places": 2,
+      "numeric_code": "352"
+    },
+    {
+      "currency_name": "JAMAICAN DOLLAR",
+      "currency_code": "JMD",
+      "decimal_places": 2,
+      "numeric_code": "388"
+    },
+    {
+      "currency_name": "JORDANIAN DINAR",
+      "currency_code": "JOD",
+      "decimal_places": 2,
+      "numeric_code": "400"
+    },
+    {
+      "currency_name": "JAPANESE YEN",
+      "currency_code": "JPY",
+      "decimal_places": 2,
+      "numeric_code": "392"
+    },
+    {
+      "currency_name": "KENYAN SHILLING",
+      "currency_code": "KES",
+      "decimal_places": 2,
+      "numeric_code": "404"
+    },
+    {
+      "currency_name": "KYRGYZSTAN SOM",
+      "currency_code": "KGS",
+      "decimal_places": 2,
+      "numeric_code": "417"
+    },
+    {
+      "currency_name": "RIEL",
+      "currency_code": "KHR",
+      "decimal_places": 2,
+      "numeric_code": "116"
+    },
+    {
+      "currency_name": "COMOROS FRANC",
+      "currency_code": "KMF",
+      "decimal_places": 2,
+      "numeric_code": "174"
+    },
+    {
+      "currency_name": "S. KOREAN WON",
+      "currency_code": "KRW",
+      "decimal_places": 2,
+      "numeric_code": "410"
+    },
+    {
+      "currency_name": "KUWAITI DINAR",
+      "currency_code": "KWD",
+      "decimal_places": 2,
+      "numeric_code": "414"
+    },
+    {
+      "currency_name": "CAYMAN ISL DOLLAR",
+      "currency_code": "KYD",
+      "decimal_places": 2,
+      "numeric_code": "136"
+    },
+    {
+      "currency_name": "TENGE",
+      "currency_code": "KZT",
+      "decimal_places": 2,
+      "numeric_code": "398"
+    },
+    {
+      "currency_name": "KIP",
+      "currency_code": "LAK",
+      "decimal_places": 2,
+      "numeric_code": "418"
+    },
+    {
+      "currency_name": "LEBANESE POUND",
+      "currency_code": "LBP",
+      "decimal_places": 2,
+      "numeric_code": "422"
+    },
+    {
+      "currency_name": "SRI LANKA RUPEE",
+      "currency_code": "LKR",
+      "decimal_places": 2,
+      "numeric_code": "144"
+    },
+    {
+      "currency_name": "LIBERIA DOLLAR",
+      "currency_code": "LRD",
+      "decimal_places": 2,
+      "numeric_code": "430"
+    },
+    {
+      "currency_name": "LESOTHO LOTI",
+      "currency_code": "LSL",
+      "decimal_places": 2,
+      "numeric_code": "426"
+    },
+    {
+      "currency_name": "MOROCCAN DIRHAM",
+      "currency_code": "MAD",
+      "decimal_places": 2,
+      "numeric_code": "504"
+    },
+    {
+      "currency_name": "LEU",
+      "currency_code": "MDL",
+      "decimal_places": 2,
+      "numeric_code": "498"
+    },
+    {
+      "currency_name": "MALAGASY ARIARY",
+      "currency_code": "MGA",
+      "decimal_places": 2,
+      "numeric_code": "969"
+    },
+    {
+      "currency_name": "DENAR",
+      "currency_code": "MKD",
+      "decimal_places": 2,
+      "numeric_code": "807"
+    },
+    {
+      "currency_name": "TUGRIK",
+      "currency_code": "MNT",
+      "decimal_places": 2,
+      "numeric_code": "496"
+    },
+    {
+      "currency_name": "PATACA",
+      "currency_code": "MOP",
+      "decimal_places": 2,
+      "numeric_code": "446"
+    },
+    {
+      "currency_name": "MAURITIUS RUPEE",
+      "currency_code": "MUR",
+      "decimal_places": 2,
+      "numeric_code": "480"
+    },
+    {
+      "currency_name": "MALDIVE RUFIYAA",
+      "currency_code": "MVR",
+      "decimal_places": 2,
+      "numeric_code": "462"
+    },
+    {
+      "currency_name": "KWACHA",
+      "currency_code": "MWK",
+      "decimal_places": 2,
+      "numeric_code": "454"
+    },
+    {
+      "currency_name": "MEXICAN PESO",
+      "currency_code": "MXN",
+      "decimal_places": 2,
+      "numeric_code": "484"
+    },
+    {
+      "currency_name": "MALAYSIAN RINGITS",
+      "currency_code": "MYR",
+      "decimal_places": 2,
+      "numeric_code": "458"
+    },
+    {
+      "currency_name": "MOZAMBIQUE METICAL",
+      "currency_code": "MZN",
+      "decimal_places": 2,
+      "numeric_code": "943"
+    },
+    {
+      "currency_name": "DOLLAR",
+      "currency_code": "NAD",
+      "decimal_places": 2,
+      "numeric_code": "516"
+    },
+    {
+      "currency_name": "NAIRA",
+      "currency_code": "NGN",
+      "decimal_places": 2,
+      "numeric_code": "566"
+    },
+    {
+      "currency_name": "CORDOBA ORO",
+      "currency_code": "NIO",
+      "decimal_places": 2,
+      "numeric_code": "558"
+    },
+    {
+      "currency_name": "NORWEGIAN KRONE",
+      "currency_code": "NOK",
+      "decimal_places": 2,
+      "numeric_code": "578"
+    },
+    {
+      "currency_name": "NEPALESE RUPEE",
+      "currency_code": "NPR",
+      "decimal_places": 2,
+      "numeric_code": "524"
+    },
+    {
+      "currency_name": "NEW ZEALAND DOLLAR",
+      "currency_code": "NZD",
+      "decimal_places": 2,
+      "numeric_code": "554"
+    },
+    {
+      "currency_name": "RIAL",
+      "currency_code": "OMR",
+      "decimal_places": 2,
+      "numeric_code": "512"
+    },
+    {
+      "currency_name": "BALBOA",
+      "currency_code": "PAB",
+      "decimal_places": 2,
+      "numeric_code": "590"
+    },
+    {
+      "currency_name": "NUEVO SOL",
+      "currency_code": "PEN",
+      "decimal_places": 2,
+      "numeric_code": "604"
+    },
+    {
+      "currency_name": "KINA",
+      "currency_code": "PGK",
+      "decimal_places": 2,
+      "numeric_code": "598"
+    },
+    {
+      "currency_name": "PHILIPPINE PESO",
+      "currency_code": "PHP",
+      "decimal_places": 2,
+      "numeric_code": "608"
+    },
+    {
+      "currency_name": "PAKISTAN RUPEE",
+      "currency_code": "PKR",
+      "decimal_places": 2,
+      "numeric_code": "586"
+    },
+    {
+      "currency_name": "POLISH ZLOTY",
+      "currency_code": "PLN",
+      "decimal_places": 2,
+      "numeric_code": "985"
+    },
+    {
+      "currency_name": "GUARANI",
+      "currency_code": "PYG",
+      "decimal_places": 2,
+      "numeric_code": "600"
+    },
+    {
+      "currency_name": "QATARI RIYAL",
+      "currency_code": "QAR",
+      "decimal_places": 2,
+      "numeric_code": "634"
+    },
+    {
+      "currency_name": "ROMANIAN LEU",
+      "currency_code": "RON",
+      "decimal_places": 2,
+      "numeric_code": "946"
+    },
+    {
+      "currency_name": "SERBIAN DINAR",
+      "currency_code": "RSD",
+      "decimal_places": 2,
+      "numeric_code": "941"
+    },
+    {
+      "currency_name": "RWANDA FRANC",
+      "currency_code": "RWF",
+      "decimal_places": 2,
+      "numeric_code": "646"
+    },
+    {
+      "currency_name": "RIYAL",
+      "currency_code": "SAR",
+      "decimal_places": 2,
+      "numeric_code": "682"
+    },
+    {
+      "currency_name": "SOLOMON ISL DOLLAR",
+      "currency_code": "SBD",
+      "decimal_places": 2,
+      "numeric_code": "090"
+    },
+    {
+      "currency_name": "SEYCHELLES RUPEE",
+      "currency_code": "SCR",
+      "decimal_places": 2,
+      "numeric_code": "690"
+    },
+    {
+      "currency_name": "SWEDISH KRONA",
+      "currency_code": "SEK",
+      "decimal_places": 2,
+      "numeric_code": "752"
+    },
+    {
+      "currency_name": "SINGAPORE DOLLAR",
+      "currency_code": "SGD",
+      "decimal_places": 2,
+      "numeric_code": "702"
+    },
+    {
+      "currency_name": "ST. HELENA POUND",
+      "currency_code": "SHP",
+      "decimal_places": 2,
+      "numeric_code": "654"
+    },
+    {
+      "currency_name": "SIERRA LEONEAN LEONE",
+      "currency_code": "SLE",
+      "decimal_places": 2,
+      "numeric_code": "925"
+    },
+    {
+      "currency_name": "SOMALI SHILLING",
+      "currency_code": "SOS",
+      "decimal_places": 2,
+      "numeric_code": "706"
+    },
+    {
+      "currency_name": "SURINAME DOLLAR",
+      "currency_code": "SRD",
+      "decimal_places": 2,
+      "numeric_code": "968"
+    },
+    {
+      "currency_name": "DOBRA",
+      "currency_code": "STD",
+      "decimal_places": 2,
+      "numeric_code": "678"
+    },
+    {
+      "currency_name": "EL SALVADOR COLON",
+      "currency_code": "SVC",
+      "decimal_places": 2,
+      "numeric_code": "222"
+    },
+    {
+      "currency_name": "LILANGENI",
+      "currency_code": "SZL",
+      "decimal_places": 2,
+      "numeric_code": "748"
+    },
+    {
+      "currency_name": "BAHT",
+      "currency_code": "THB",
+      "decimal_places": 2,
+      "numeric_code": "764"
+    },
+    {
+      "currency_name": "TAJIKISTAN SOMONI",
+      "currency_code": "TJS",
+      "decimal_places": 2,
+      "numeric_code": "972"
+    },
+    {
+      "currency_name": "MANAT",
+      "currency_code": "TMT",
+      "decimal_places": 2,
+      "numeric_code": "934"
+    },
+    {
+      "currency_name": "TUNISIAN DINAR",
+      "currency_code": "TND",
+      "decimal_places": 2,
+      "numeric_code": "788"
+    },
+    {
+      "currency_name": "PA ANGA",
+      "currency_code": "TOP",
+      "decimal_places": 2,
+      "numeric_code": "776"
+    },
+    {
+      "currency_name": "TURKISH LIRA",
+      "currency_code": "TRY",
+      "decimal_places": 2,
+      "numeric_code": "949"
+    },
+    {
+      "currency_name": "TRIN. \u0026 TOB. DOLLAR",
+      "currency_code": "TTD",
+      "decimal_places": 2,
+      "numeric_code": "780"
+    },
+    {
+      "currency_name": "NEW TAIWAN DOLLAR",
+      "currency_code": "TWD",
+      "decimal_places": 2,
+      "numeric_code": "901"
+    },
+    {
+      "currency_name": "TANZANIAN SHILLING",
+      "currency_code": "TZS",
+      "decimal_places": 2,
+      "numeric_code": "834"
+    },
+    {
+      "currency_name": "UGANDA SHILLING",
+      "currency_code": "UGX",
+      "decimal_places": 2,
+      "numeric_code": "800"
+    },
+    {
+      "currency_name": "US DOLLAR",
+      "currency_code": "USD",
+      "decimal_places": 2,
+      "numeric_code": "840"
+    },
+    {
+      "currency_name": "PESO URUGUAYO",
+      "currency_code": "UYU",
+      "decimal_places": 2,
+      "numeric_code": "858"
+    },
+    {
+      "currency_name": "UZBEKISTAN SUM",
+      "currency_code": "UZS",
+      "decimal_places": 2,
+      "numeric_code": "860"
+    },
+    {
+      "currency_name": "DONG",
+      "currency_code": "VND",
+      "decimal_places": 2,
+      "numeric_code": "704"
+    },
+    {
+      "currency_name": "VATU",
+      "currency_code": "VUV",
+      "decimal_places": 2,
+      "numeric_code": "548"
+    },
+    {
+      "currency_name": "TALA",
+      "currency_code": "WST",
+      "decimal_places": 2,
+      "numeric_code": "882"
+    },
+    {
+      "currency_name": "C.F.A. FRANC BEAC",
+      "currency_code": "XAF",
+      "decimal_places": 2,
+      "numeric_code": "950"
+    },
+    {
+      "currency_name": "E. CARIBBEAN D LR",
+      "currency_code": "XCD",
+      "decimal_places": 2,
+      "numeric_code": "951"
+    },
+    {
+      "currency_name": "C.F.A. FRANC BCEAO",
+      "currency_code": "XOF",
+      "decimal_places": 2,
+      "numeric_code": "952"
+    },
+    {
+      "currency_name": "C.F.A. FRANC",
+      "currency_code": "XPF",
+      "decimal_places": 2,
+      "numeric_code": "953"
+    },
+    {
+      "currency_name": "YEMENI RIAL",
+      "currency_code": "YER",
+      "decimal_places": 2,
+      "numeric_code": "886"
+    },
+    {
+      "currency_name": "RAND",
+      "currency_code": "ZAR",
+      "decimal_places": 2,
+      "numeric_code": "710"
+    },
+    {
+      "currency_name": "ZAMBIAN KWACHA",
+      "currency_code": "ZMW",
+      "decimal_places": 2,
+      "numeric_code": "967"
+    }
+  ]
+}
