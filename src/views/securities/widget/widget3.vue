@@ -37,7 +37,7 @@ const rules: Record<string, Rule[]> = {
   residenceProvince: [{ required: true, message: t('requiredField'), trigger: 'change' }],
   residenceCity: [{ required: true, message: t('requiredField'), trigger: 'change' }],
   postcode: [{ required: true, message: t('requiredField'), trigger: 'change' }],
-  address1: [{ required: true, message: t('requiredField'), trigger: 'change' }]
+  address1: [{ required: true, message: t('requiredField'), trigger: 'change' }],
 }
 
 const filterOption = (input: any, option: any) => {
@@ -84,8 +84,23 @@ const onSubmit = () => {
             :filter-option="filterOption"
             :placeholder="t('selectCountry')"
           >
-            <a-select-option :value="v.iso2" v-for="v in CountryOption" :key="v.iso2">
-              {{ locale === 'en_US' ? v.name : v.chineseName }}
+            <!--            <a-select-option :value="v.iso2" v-for="v in CountryOption" :key="v.iso2">-->
+            <!--              {{ locale === 'en_US' ? v.name : v.chineseName }}-->
+            <!--            </a-select-option>-->
+            <a-select-option
+              v-for="item in CountryOption"
+              :key="item.iso2"
+              :value="item.iso2"
+              :label="locale === 'zh_CN' ? item.chineseName : item.name"
+            >
+              <div class="flex items-center gap-9px">
+                <img
+                  :src="item.icon"
+                  style="width: 20px; height: 20px; border-radius: 20px"
+                  :alt="item.name"
+                />
+                {{ locale === 'zh_CN' ? item.chineseName : item.name }}
+              </div>
             </a-select-option>
           </a-select>
         </a-form-item>
